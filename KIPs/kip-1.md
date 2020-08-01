@@ -14,7 +14,7 @@ A **Kyber Market** contains of *Proxy contracts, Network contract, Storage contr
 reserves*. All reserves price their listed tokens in a particular **currency**. If a market is with currency A, we call it **Kyber A Market**, the currrent Kyber Network is called **Kyber ETH Market**. The currency can be called `quote_token` interchangeably.
 
 ## Epoch
-An epoch is a continuous range of Ethereum blocks. Each epoch is assigned to a number starting from 0. *Epoch 0 is called E0, Epoch 1 is called E1 and so on*. Every epoch lasts exactly 14 days (1209600 seconds) based on block's timestamp except E0 which started at this [transaction](https://etherscan.io/tx/0x9e2390fc23c8b7a6c603b9f4919c3e1c7b7187ff3dbb1062040434577a5fd028). E1 starts at 07:07:07 14th June, 2020 UTC+0.
+An epoch is a continuous range of Ethereum blocks. Each epoch is assigned to a number starting from 0. *Epoch 0 is called E0, Epoch 1 is called E1 and so on*. Every epoch lasts exactly 14 days (1209600 seconds) based on block's timestamp except E0 which started at this [transaction](https://etherscan.io/tx/0x9e2390fc23c8b7a6c603b9f4919c3e1c7b7187ff3dbb1062040434577a5fd028). E1 starts at 07:07:07 14th July, 2020 UTC+0.
 
 Each epoch has maximum 1 Fee Campaign and 1 BRR Campaign, it can have many General Campaigns and less than 10 campaigns in total for 1 epoch.
 

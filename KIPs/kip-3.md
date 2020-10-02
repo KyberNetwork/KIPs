@@ -21,10 +21,9 @@ voting_option_titles: "Reduce network fee to 10bps", "Keep network fee as 20bps"
 
 ## Summary
 
-In the past days, formula-based liquidity venues with passive market makers have seen a huge inflow in terms of capital. Kyber Network's predominant source of liquidity is professional market makers using FPRs. With several billions being passively providing liquidity for the major ETH pairs in AMM protocols, it has become very hard to claim a largest liquidity share in the major ETH pairs. If network fees were reduced, Kyber FPRs could offer a better price for the takers, thus increasing the volume on Kyber that could generate fees.  
+In recent past, formula-based liquidity venues built around passive market makers have seen a huge inflow of passive liquidity. Kyber Network’s predominant source of liquidity comes from professional market makers using FPRs (Fed Price Reserves). With several billions of dollars worth of inventory passively providing liquidity for the major ETH pairs in AMM protocols, it is harder for Kyber to have the largest liquidity share for the major ETH pairs. By reducing network fees to optimal levels, Kyber FPRs can offer better prices for the takers, and therefore increase volumes which in turn generate more fees. 
 
-This KIP suggest lowering the overall network fees from 20bps to 10bps with the purpose of increasing Kyber's volume share, subsequently increasing the overall network fees and also help with the sustainability of Kyber's FPRs.
-
+This KIP suggests lowering the overall network fees from 20bps to 10bps with the purpose of increasing Kyber’s volume share, subsequently increasing the overall network fees while further supporting the sustainability of Kyber's FPRs.
 
 ## Abstract
 

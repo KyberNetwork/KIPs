@@ -10,7 +10,7 @@ created: 2020-10-02
 ```
 voting_campaign_type: fee
 voting_start_timestamp: 1601968027
-voting_end_timestamp: 1603177627
+voting_end_timestamp: 1602572827
 voting_min_knc_voted_percentage: 40000000000000000
 voting_c: 0
 voting_t: 0

@@ -7,6 +7,17 @@ author: Kyber Network team
 created: 2020-12-11
 ---
 
+```
+voting_campaign_type: general
+voting_start_timestamp: 1608016027
+voting_end_timestamp: 1608361627
+voting_min_knc_voted_percentage: 40000000000000000
+voting_c: 0
+voting_t: 0
+voting_options: 1, 2
+voting_option_titles: "Accept", "Reject"
+```
+
 ## Summary:
 
 Kyber Network is exploring the listing of the following 5 ERC-20 tokens and the corresponding reserves: [Grid](https://gridplus.io/), [Mantra DAO](https://mantradao.com/), [RedFox](https://www.redfoxlabs.io/), [StrongBlock](https://strongblock.com/), [TokenAsset](https://tokenasset.com/).

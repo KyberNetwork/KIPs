@@ -7,6 +7,17 @@ author: Kyber Network team
 created: 2020-12-28
 ---
 
+```
+voting_campaign_type: general
+voting_start_timestamp: 1609571227  
+voting_end_timestamp: 1609916827
+voting_min_knc_voted_percentage: 40000000000000000
+voting_c: 0
+voting_t: 0
+voting_options: 1, 2
+voting_option_titles: "Accept", "Reject"
+```
+
 ## Summary:
 
 Kyber Network is exploring the listing of the following 4 ERC-20 tokens and the corresponding reserves: [1inch](https://1inch.exchange/), [Energi](https://www.energi.world/), [Everest](https://everest.org/), [Morpheus Labs](https://morpheuslabs.io/).

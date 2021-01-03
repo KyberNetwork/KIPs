@@ -9,8 +9,8 @@ created: 2020-12-28
 
 ```
 voting_campaign_type: general
-voting_start_timestamp: 1609571227  
-voting_end_timestamp: 1609916827
+voting_start_timestamp: 1609744027  
+voting_end_timestamp: 1610089627
 voting_min_knc_voted_percentage: 40000000000000000
 voting_c: 0
 voting_t: 0

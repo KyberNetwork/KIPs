@@ -1,6 +1,6 @@
 ---
 kip: 6
-title: Migrate KNC token to a new implementation
+title: Migrate KNC token contract to a new implementation
 status: Active
 type: Migration
 authors: Kyber Network team
@@ -53,7 +53,7 @@ We propose that KNC be upgraded into a token with a DAO-controlled dynamic suppl
 1. Based on extensive forum discussions with the Kyber and DeFi community, we have established certain key considerations regarding the KNC migration.
 2. There have been concerns raised about the possibility of KNC inflation post-migration, where any new KNC minted as incentives for specific beneficiaries will dilute the stake and voting power of the rest of the KNC holders. Another concern is the abuse of KNC’s flexibility to mint exorbitant amounts for the needs of select parties at the expense of the majority of KNC holders.
 3. Given the aforementioned concerns, **stringent safeguards and technical/governance mechanisms** will be introduced post-migration to ensure that any token contract alteration will always require a high participation threshold and consensus by KNC holders.
-4. Examples of governance mechanisms that will allow us to configure the criterion include logr timelocks before the effects take place, minimum voting quorum and a vote differential (% difference between ‘For’ and ‘Against’ voting results). For instance, AAVE, which has similar token upgradability features has a timelock period of 2 weeks, and requires at least 20% of the AAVE supply voting yes with a vote differential of 15%.
+4. Examples of governance mechanisms that will allow us to configure the criterion include long timelocks before the effects take place, minimum voting quorum and a vote differential (% difference between ‘For’ and ‘Against’ voting results). For instance, AAVE, which has similar token upgradability features has a timelock period of 2 weeks, and requires at least 20% of the AAVE supply voting yes with a vote differential of 15%.
 5. Methods were also proposed to ensure an optimal KNC circulating supply in the market, even in a scenario where there is minting of additional KNC tokens. Examples include making it mandatory for all KNC rewards distribution to have a partial lock-up system by being milestone-based or following a suitable vesting schedule.
 6. All these ideas are not finalized and need to be discussed in subsequent KyberDAO proposals. The team is committed towards transparency and the implementation of critical safeguards to ensure the integrity of the KNC token model.
 

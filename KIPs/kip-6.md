@@ -10,8 +10,8 @@ created: 2021-03-10
 
 ```
 voting_campaign_type: general
-voting_start_timestamp: 1615446427
-voting_end_timestamp: 1616310427
+voting_start_timestamp: 1615532827
+voting_end_timestamp: 1616396827
 voting_min_knc_voted_percentage: 40000000000000000
 voting_c: 0
 voting_t: 0
@@ -19,11 +19,11 @@ voting_options: 1, 2
 voting_option_titles: "Accept", "Reject"
 ```
 
-## Summary:
+## Summary
 
 The Kyber team is proposing a KNC migration to make the Kyber Network Crystal (KNC) token more dynamic and flexible with the capacity to undergo upgrades more efficiently. This new KNC token contract gives greater control to the KyberDAO, enabling it to upgrade the token and mint or burn tokens as necessary to better support innovation and growth, bootstrap liquidity, and enable Kyber to adapt quickly within the fast-changing DeFi landscape.
 
-## Motivation:
+## Motivation
 
 We intend to greatly strengthen the KNC token’s role as a governance and incentive mechanism to allow the KyberDAO to further drive growth and value creation for Kyber Network. 
 

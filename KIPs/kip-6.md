@@ -28,7 +28,7 @@ The Kyber team is proposing a KNC migration to make the Kyber Network Crystal (K
 We intend to greatly strengthen the KNC token’s role as a governance and incentive mechanism to allow the KyberDAO to further drive growth and value creation for Kyber Network. 
 
 The current KNC token contract has several design factors that make it unsuitable to meet the fast-changing needs of Kyber’s next phase of growth:
-1.  The token is non-upgradable meaning any major improvements and functionality changes require the an inconvenient full smart contract migration
+1.  The token is non-upgradable meaning any major improvements and functionality changes require an inconvenient full smart contract migration
 2.  The KyberDAO has no steering mechanism for the token’s behaviour
 3.  Token supply is fixed, and therefore the KyberDAO is not able to support new initiatives or user growth through funding when when the opportunity arises
 
@@ -50,7 +50,7 @@ We propose that KNC be upgraded into a token with a DAO-controlled dynamic suppl
 
 ## Important Considerations
 
-1. Based on extensive forum discussions with the Kyber and DeFi community, we have established certain key considerations regarding the KNC migration.
+1. Based on extensive [forum discussions](https://gov.kyber.org/t/knc-token-migration-upgrade-discussion/64) with the Kyber and DeFi community, we have established certain key considerations regarding the KNC migration.
 2. There have been concerns raised about the possibility of KNC inflation post-migration, where any new KNC minted as incentives for specific beneficiaries will dilute the stake and voting power of the rest of the KNC holders. Another concern is the abuse of KNC’s flexibility to mint exorbitant amounts for the needs of select parties at the expense of the majority of KNC holders.
 3. Given the aforementioned concerns, **stringent safeguards and technical/governance mechanisms** will be introduced post-migration to ensure that any token contract alteration will always require a high participation threshold and consensus by KNC holders.
 4. Examples of governance mechanisms that will allow us to configure the criterion include long timelocks before the effects take place, minimum voting quorum and a vote differential (% difference between ‘For’ and ‘Against’ voting results). For instance, AAVE, which has similar token upgradability features has a timelock period of 2 weeks, and requires at least 20% of the AAVE supply voting yes with a vote differential of 15%.

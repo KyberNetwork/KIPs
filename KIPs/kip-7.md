@@ -41,6 +41,8 @@ In the process, changes will be made to how fees are handled and distributed, an
 
 Below are the proposed changes/configurations for the KyberDAO migration:
 
+![DAO architecture](https://raw.githubusercontent.com/KyberNetwork/dao_sc/katana/kyber-gov-architecture.png)
+
 The overall architecture is based off Aave’s governance model with some notable modifications:
 1. Enabling the creation and voting of multi-option (generic) proposals
 2. voting power will be calculated (initially it will be a strategy that is based on the current KNC staking model)

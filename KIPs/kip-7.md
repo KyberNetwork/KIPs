@@ -11,7 +11,7 @@ created: 2021-04-09
 ```
 voting_campaign_type: general
 voting_start_timestamp: 1618038427
-voting_end_timestamp: 1618038430
+voting_end_timestamp: 1618902426
 voting_min_knc_voted_percentage: 40000000000000000
 voting_c: 0
 voting_t: 0

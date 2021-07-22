@@ -2,8 +2,6 @@ name: Joint Liquidity Mining Proposal
 description: Provide following information to be a part of Liquidity Mining Program on DMM
 title: "[Proposal from]: "
 labels: [proposal, triage]
-assignees:
-  - octocat
 body:
   - type: markdown
     attributes:

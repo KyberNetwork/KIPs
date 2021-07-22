@@ -4,14 +4,13 @@ title: "[Proposal from]: "
 labels: [Proposal, triage]
 body:
   - type: input
-    id: project-information
+    id: contact
     attributes:
       label: General Information
       description: How can we get in touch with you if we need more info?
       placeholder: ex. contact information, website url, logo, token contract address, current markets
-
     validations:
-      required: false
+      required: true
   - type: markdown
     attributes: 
       value: |

@@ -32,13 +32,14 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: vesting-duration
+  id: vesting
   attributes:
-    label: Which option for vesting you will go for?
-    options: 
+    label: Vesting circle
+    description: Which option you will go for?
+    options:
     - No vesting
-    - 14 days
-      validations:
+    - True
+  validations:
     required: true
 - type: textarea
   id: logs

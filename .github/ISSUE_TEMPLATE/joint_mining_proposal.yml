@@ -1,7 +1,6 @@
 name: Liquidity Mining Proposal
-description: File a bug report
-title: "[Bug]: "
-labels: [bug, triage]
+title: "[Proposal from]: "
+labels: [proposal, triage]
 assignees:
   - octocat
 body:

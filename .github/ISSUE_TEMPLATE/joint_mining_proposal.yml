@@ -24,12 +24,4 @@ body:
     value: content suggestion
   validations:
     required: true
- - type: input
-   id: knc-quantity
-   attributes:
-     label: KNC Ammount Request
-     description: How many KNC estimatedly do you request for in this proposal?
-     placeholder: 
-   validations:
-      required: true
 

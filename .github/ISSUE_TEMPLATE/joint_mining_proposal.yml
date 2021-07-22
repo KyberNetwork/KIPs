@@ -32,15 +32,13 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: browsers
+  id: vesting-duration
   attributes:
-    label: What browsers are you seeing the problem on?
-    multiple: true
+    label: Which option for vesting you will go for?
+    multiple: false
     options:
-    - Firefox
-    - Chrome
-    - Safari
-    - Microsoft Edge
+    - No vesting
+    - 14 days
 - type: textarea
   id: logs
   attributes:

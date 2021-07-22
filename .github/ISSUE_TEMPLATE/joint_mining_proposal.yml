@@ -49,4 +49,23 @@ body:
       placeholder: ex. 2 months, 3 months, etc
   validations:
     required: true
+ - type: dropdown
+   id: liquidity-mining
+   attributes:
+      label: Liquidity Mining type
+      description: Which type of your liquidity mining
+      options:
+        - Trade volume
+        - Liquidity
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: abc xyz
+      options:
+        - label: I agree to follow this campaign's Code of Conduct
+          required: true
       
+

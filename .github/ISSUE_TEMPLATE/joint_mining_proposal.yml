@@ -1,61 +1,60 @@
-name: Joint Liquidity Mining Proposal
-description: Please provide following information to be a part of the ‘Rainmaker’ program for joint liquidity mining with Kyber, using KNC from the ecosystem fund
+name: Joint Mining Campaign Proposal
+description: File a bug report
 title: "[Proposal from]: "
 labels: [proposal, triage]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Please submit your proposals to get your tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top protocol fees. Although proposal details may differ depending on the needs of each individual project, all tokens have to fulfil certain criteria based on the liquidity mining framework in order to be eligible for a KyberDAO vote and Rainmaker liquidity mining.Proposals have to be first submitted to Kyber’s governance forum for discussion for 7 days, where the Kyber community will discuss and determine if the project is eligible and what should be a suitable KNC reward allocation!
-  - type: input
+- type: markdown
+  attributes:
+    value: |
+      Please provide following information to be a part of the ‘Rainmaker’ program for joint liquidity mining with Kyber, using KNC from the ecosystem fund
+- type: input
   id: contact
   attributes:
-    label: General Information
+    label: Contact Details
     description: How can we get in touch with you if we need more info?
-    placeholder: ex. contact information, website url, logo, token contract address, current markets
+    placeholder: ex. email@example.com
+  validations:
+    required: false
+- type: textarea
+  id: what-happened
+  attributes:
+    label: What happened?
+    description: Also tell us, what did you expect to happen?
+    placeholder: Tell us what you see!
+    value: "A bug happened!"
   validations:
     required: true
-  
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
+- type: dropdown
+  id: version
+  attributes:
+    label: Version
+    description: What version of our software are you running?
+    options:
+    - 1.0.2 (Default)
+    - 1.0.3 (Edge)
+  validations:
+    required: true
+- type: dropdown
+  id: browsers
+  attributes:
+    label: What browsers are you seeing the problem on?
+    multiple: true
+    options:
+    - Firefox
+    - Chrome
+    - Safari
+    - Microsoft Edge
+- type: textarea
+  id: logs
+  attributes:
+    label: Relevant log output
+    description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+    render: shell
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Code of Conduct
+    description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+    options:
+    - label: I agree to follow this project's Code of Conduct
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true

@@ -38,7 +38,7 @@ body:
     description: Which option you will go for?
     options:
     - No vesting
-    - True
+    - 14 days
   validations:
     required: true
 - type: textarea

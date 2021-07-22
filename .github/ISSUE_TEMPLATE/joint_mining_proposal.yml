@@ -51,14 +51,6 @@ body:
     - 14 days
   validations:
     required: true
-- type: input
-  id: duration
-  attributes:
-      label: Campaign Duration
-      description: How long you want to run the campaign?
-      placeholder: ex. 2 months, 3 months, etc
-  validations:
-    required: true
 
 
       

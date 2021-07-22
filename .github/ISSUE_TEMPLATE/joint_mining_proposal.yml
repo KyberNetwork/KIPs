@@ -7,7 +7,7 @@ body:
   attributes:
     value: |
       Please provide following information to be a part of the ‘Rainmaker’ program for joint liquidity mining with Kyber, using KNC from the ecosystem fund
-- type: input
+- type: textarea
   id: information
   attributes:
     label: General Information

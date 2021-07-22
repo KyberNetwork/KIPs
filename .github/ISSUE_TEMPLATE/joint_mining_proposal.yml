@@ -3,14 +3,7 @@ description: Please provide following information to be a part of the ‘Rainmak
 title: "[Proposal from]: "
 labels: [Proposal, triage]
 body:
-  - type: input
-    id: contact
-    attributes:
-      label: General Information
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. contact information, website url, logo, token contract address, current markets
-    validations:
-      required: true
+
   - type: markdown
     attributes: 
       value: |

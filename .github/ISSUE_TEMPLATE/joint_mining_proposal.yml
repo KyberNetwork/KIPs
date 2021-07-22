@@ -13,4 +13,5 @@ body:
     label: General Information
     description: Tell us more about your project
     placeholder: ex. contact information, website url, logo, token contract address, current markets
-  validations: required: true
+  validations: 
+  required: true

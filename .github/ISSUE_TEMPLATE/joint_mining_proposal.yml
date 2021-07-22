@@ -39,7 +39,7 @@ body:
     options:
     - No vesting
     - 14 days
-    validations:
+   validations:
     required: true
 - type: textarea
   id: logs

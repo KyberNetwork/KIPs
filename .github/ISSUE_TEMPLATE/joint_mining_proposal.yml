@@ -14,6 +14,16 @@ body:
     description: Tell us more about your project
     placeholder: ex. contact information, website url, logo, token contract address, current markets
   validations:
+ - type: dropdown
+   id: version
+   attributes:
+    label: Version
+    description: What version of our software are you running?
+    options:
+    - 1.0.2 (Default)
+    - 1.0.3 (Edge)
+  validations:
+    required: true
     required: true
 - type: textarea
   id: summary

@@ -14,4 +14,13 @@ body:
     description: Tell us more about your project
     placeholder: ex. contact information, website url, logo, token contract address, current markets
   validations: 
-  required: true
+    required: true
+- type: textarea
+  id: summary
+  attributes:
+    label: Summary of your proposal
+    description: A summary of what you want to do with the joint mining campaign
+    placeholder: summary
+    value: content suggestion
+  validations:
+    required: true

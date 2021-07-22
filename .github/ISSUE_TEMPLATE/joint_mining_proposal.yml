@@ -11,10 +11,10 @@ body:
   id: information
   attributes:
     label: General Information
-    description: Please walk us through a little bit about your project
+    description: Tell us more about your project
     placeholder: ex. contact information, website url, logo, token contract address, current markets
   validations:
-    required: false
+    required: true
 - type: textarea
   id: what-happened
   attributes:

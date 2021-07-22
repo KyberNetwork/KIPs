@@ -18,20 +18,17 @@ body:
 - type: textarea
   id: summary
   attributes:
-    label: Summary
+    label: Summary of your proposal
     description: A summary of what you want to do with the joint mining campaign
     placeholder: summary
     value: content suggestion
   validations:
     required: true
-- type: dropdown
-  id: version
+- type: input
+  id: knc-quantity
   attributes:
-    label: Version
-    description: What version of our software are you running?
-    options:
-    - 1.0.2 (Default)
-    - 1.0.3 (Edge)
+    label: KNC amount request
+    description: How many KNC estimatedly do you request for in this proposal?
   validations:
     required: true
 - type: dropdown

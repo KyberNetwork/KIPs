@@ -49,16 +49,7 @@ body:
       placeholder: ex. 2 months, 3 months, etc
   validations:
     required: true
- - type: dropdown
-   id: liquidity-mining
-   attributes:
-      label: Liquidity Mining type
-      description: Which type of your liquidity mining
-      options:
-        - Trade volume
-        - Liquidity
-    validations:
-      required: true
+
 
       
 

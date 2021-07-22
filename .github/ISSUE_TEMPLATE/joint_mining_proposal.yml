@@ -3,7 +3,7 @@ description: Please provide following information to be a part of the ‘Rainmak
 title: "[Proposal from]: "
 labels: [Proposal, triage]
 body:
- - type: markdown
+- type: markdown
  attributes: 
 value: |
 

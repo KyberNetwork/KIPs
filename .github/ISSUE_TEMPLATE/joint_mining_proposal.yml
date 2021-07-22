@@ -59,13 +59,6 @@ body:
         - Liquidity
     validations:
       required: true
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: abc xyz
-      options:
-        - label: I agree to follow this campaign's Code of Conduct
-          required: true
+
       
 

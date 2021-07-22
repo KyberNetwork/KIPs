@@ -16,12 +16,12 @@ body:
   validations:
     required: true
 - type: textarea
-  id: what-happened
+  id: summary
   attributes:
-    label: What happened?
-    description: Also tell us, what did you expect to happen?
-    placeholder: Tell us what you see!
-    value: "A bug happened!"
+    label: Summary
+    description: A summary of what you want to do with the joint mining campaign
+    placeholder: summary
+    value: content suggestion
   validations:
     required: true
 - type: dropdown

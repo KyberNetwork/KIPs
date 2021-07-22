@@ -40,6 +40,15 @@ body:
     label: KNC amount request
     description: How many KNC estimatedly do you request for in this proposal?
   validations:
+    required: true- type: dropdown
+  id: vesting
+  attributes:
+    label: Vesting circle
+    description: Which option you will go for?
+    options:
+    - No vesting
+    - 14 days
+  validations:
     required: true
 
     

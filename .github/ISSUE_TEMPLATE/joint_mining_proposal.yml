@@ -7,9 +7,9 @@ body:
  attributes: 
 value: |
 
-        Please submit your proposals to get your tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top protocol fees. Although proposal details may differ depending on the needs of each individual project, all tokens have to fulfil certain criteria based on the liquidity mining framework in order to be eligible for a KyberDAO vote and Rainmaker liquidity mining.Proposals have to be first submitted to Kyber’s governance forum for discussion for 7 days, where the Kyber community will discuss and determine if the project is eligible and what should be a suitable KNC reward allocation.
+        Please submit your proposals to get your tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top protocol fees. Although proposal details may differ depending on the needs of each individual project, all tokens have to fulfil certain criteria based on the liquidity mining framework in order to be eligible for a KyberDAO vote and Rainmaker liquidity mining.Proposals have to be first submitted to Kyber’s governance forum for discussion for 7 days, where the Kyber community will discuss and determine if the project is eligible and what should be a suitable KNC reward allocation!
 
-    - type: input
+- type: input
     id: contact
     attributes:
       label: General Information

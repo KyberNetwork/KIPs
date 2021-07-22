@@ -66,5 +66,5 @@ body:
       description: abc xyz
       options:
         - label: I agree to follow this campaign's Code of Conduct
-          required: 
+          required: true 
       

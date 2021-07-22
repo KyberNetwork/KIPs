@@ -35,12 +35,9 @@ body:
   id: vesting-duration
   attributes:
     label: Which option for vesting you will go for?
-    multiple: false
-    options:
-    - No vesting
-    - 14 days
-   validations:
-    required: true
+    options: 
+    - 1.0.2 (Default)
+    - 1.0.3 (Edge)
 - type: textarea
   id: logs
   attributes:

@@ -3,10 +3,6 @@ description:
 title: "[Proposal from]: "
 labels: [proposal, triage]
 body:
-- type: markdown
-  attributes:
-    value: |
-      Projects can submit proposals to get their tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top of protocol fees. Please submit your proposal by filling up the necessary details below
 - type: textarea
   id: project-info
   attributes:
@@ -25,4 +21,91 @@ body:
     value: 
   validations:
     required: true
-
+- type: textarea
+  id: summary
+  attributes:
+    label: Proposal Summary and Motivation
+    description: A summary of what you want to do with the joint mining campaign
+    placeholder: 
+    value: 
+  validations:
+    required: true
+- type: input
+  id: knc-amount
+  attributes:
+    label: KNC Amount Request
+    description: How many KNC tokens are you requesting for? Please also state the USD value.
+    placeholder: 
+  validations:
+    required: true
+- type: input
+  id: token-amount
+  attributes:
+    label: Token Amount
+    description: Amount of tokens that project is contributing 
+    placeholder: 
+  validations:
+    required: true
+- type: input
+  id: network
+  attributes:
+    label: Network
+    description:  
+    placeholder: ex. Ethereum, Polygon
+  validations:
+    required: true    
+- type: dropdown
+  id: vesting
+  attributes:
+    label: Vesting circle
+    description: Which option you will go for?
+    options:
+    - No vesting
+    - 14 days
+    - Other 
+  validations:
+    required: true
+- type: input
+  id: duration
+  attributes:
+    label: Campaign Start date and Duration
+    description: 
+    placeholder: ex. 2 months, 3 months starting from DD/MM/YYYY
+  validations:
+    required: true
+- type: dropdown
+  id: liquidity-mining
+  attributes:
+    label: Liquidity Mining
+    multiple: true
+    description: Which type of your liquidity mining?
+    options:
+    - Trade volumn
+    - Liquidity
+    - Other ideas
+  validations:
+    required: true
+- type: input
+  id: criteria
+  attributes:
+    label: Selection Criteria Checklist
+    description:  
+    placeholder: 
+  validations:
+    required: true   
+- type: input
+  id: collaborations
+  attributes:
+    label: Collaboration Details
+    description:  
+    placeholder: 
+  validations:
+    required: true     
+- type: textarea
+  id: information
+  attributes:
+    label: Project Details
+    description: Contact information, website url, logo, token contract address, link to CoinGecko/Coinmarketcap markets page
+    placeholder: 
+  validations: 
+    required: true

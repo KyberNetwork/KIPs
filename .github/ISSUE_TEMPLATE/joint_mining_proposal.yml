@@ -1,12 +1,30 @@
 name: Joint Mining Campaign Proposal
-description: File a bug report
+description: 
 title: "[Proposal from]: "
 labels: [proposal, triage]
 body:
 - type: markdown
   attributes:
     value: |
-      Please provide following information to be a part of the ‘Rainmaker’ program for joint liquidity mining with Kyber, using KNC from the ecosystem fund
+      Projects can submit proposals to get their tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top of protocol fees.  Please submit your proposal by filling up the necessary details below.
+- type: textarea
+  id: project-info
+  attributes:
+    label: Project Introduction
+    description: Briefly describe your project and your token
+    placeholder: 
+    value: 
+  validations:
+    required: true
+- type: textarea
+  id: project-summary
+  attributes:
+    label: Proposal Summary and Motivation
+    description: A summary of what you want to do with the joint mining campaign
+    placeholder: 
+    value: 
+  validations:
+    required: true
 - type: textarea
   id: summary
   attributes:
@@ -20,7 +38,7 @@ body:
   id: knc-amount
   attributes:
     label: KNC Amount Request
-    description: How many KNC do you request for in this proposal?
+    description: How many KNC tokens are you requesting for? Please also state the USD value.
     placeholder: 
   validations:
     required: true
@@ -48,7 +66,7 @@ body:
     options:
     - No vesting
     - 14 days
-    - Other period from KNC
+    - Other 
   validations:
     required: true
 - type: input

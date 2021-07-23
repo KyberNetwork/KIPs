@@ -31,3 +31,19 @@ body:
     placeholder: 
   validations:
     required: true  
+- type: input
+  id: token-amount
+  attributes:
+    label: Project Contribution Amount
+    description: How many of your own project tokens do you intend to contribute? Please also state the USD value.
+    placeholder: 
+  validations:
+    required: true 
+- type: input
+  id: network
+  attributes:
+    label: Network
+    description:  
+    placeholder: ex. Ethereum, Polygon
+  validations:
+    required: true       

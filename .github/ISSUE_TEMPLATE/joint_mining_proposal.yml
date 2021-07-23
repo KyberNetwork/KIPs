@@ -47,3 +47,22 @@ body:
     placeholder: ex. Ethereum, Polygon
   validations:
     required: true       
+- type: dropdown
+  id: vesting
+  attributes:
+    label: Vesting Schedule
+    description: Which option you will go for?
+    options:
+    - No vesting
+    - 14 days
+    - Other 
+  validations:
+    required: true
+- type: input
+  id: duration
+  attributes:
+    label: Campaign Start date and Duration
+    description: 
+    placeholder: ex. 2 months, 3 months starting from DD/MM/YYYY
+  validations:
+    required: true   

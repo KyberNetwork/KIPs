@@ -11,7 +11,23 @@ body:
   id: project-info
   attributes:
     label: Project Introduction
-    description: Briefly describe your project and your token
+    description: Briefly describe your project and your token.
     placeholder: 
   validations:
     required: true
+- type: textarea
+  id: key-details
+  attributes:
+    label: Proposal Summary, Motivation, and Key Details
+    description: Briefly summarize how you would like to work with Kyber on the Rainmaker liquidity mining program.
+    placeholder: 
+  validations:
+    required: true    
+- type: input
+  id: knc-amount
+  attributes:
+    label: KNC Amount Requested
+    description: How many KNC tokens are you requesting for? Please also state the USD value.
+    placeholder: 
+  validations:
+    required: true  

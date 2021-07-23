@@ -1,20 +1,17 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: [bug, triage]
-assignees:
-- monalisa
-- nat
+name: Joint Mining Campaign Proposal
+description: Project proposal
+title: "[Proposal from]: "
+labels: [proposal, triage]
 body:
 - type: markdown
   attributes:
     value: |
-      Thanks for taking the time to fill out this bug report!
+      Projects can submit proposals to get their tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top of protocol fees. Please submit your proposal by filling up the necessary details below.
 - type: input
-  id: contact
+  id: project-info
   attributes:
-    label: Contact Details
-    description: How can we get in touch with you if we need more info?
-    placeholder: ex. email@example.com
+    label: Project Introduction
+    description: Briefly describe your project and your token
+    placeholder: 
   validations:
-    required: false
+    required: true

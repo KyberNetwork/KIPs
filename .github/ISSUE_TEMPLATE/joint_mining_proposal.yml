@@ -8,20 +8,12 @@ body:
     value: |
       Please provide following information to be a part of the ‘Rainmaker’ program for joint liquidity mining with Kyber, using KNC from the ecosystem fund
 - type: textarea
-  id: information
-  attributes:
-    label: General Information
-    description: Tell us more about your project
-    placeholder: ex. contact information, website url, logo, token contract address, current markets
-  validations: 
-    required: true
-- type: textarea
   id: summary
   attributes:
-    label: Summary of your proposal
+    label: Proposal Summary and Motivation
     description: A summary of what you want to do with the joint mining campaign
     placeholder: summary
-    value: content suggestion
+    value: 
   validations:
     required: true
 - type: input
@@ -29,9 +21,25 @@ body:
   attributes:
     label: KNC Amount Request
     description: How many KNC do you request for in this proposal?
-    placeholder: ex. 1k, 2k
+    placeholder: 
   validations:
     required: true
+- type: input
+  id: token-amount
+  attributes:
+    label: Token Amount
+    description: Amount of tokens that project is contributing 
+    placeholder: 
+  validations:
+    required: true
+- type: input
+  id: network
+  attributes:
+    label: Network
+    description: Amount of tokens that project is contributing 
+    placeholder: ex. Ethereum, Polygon
+  validations:
+    required: true    
 - type: dropdown
   id: vesting
   attributes:
@@ -60,11 +68,11 @@ body:
     - Liquidity
   validations:
     required: true
-- type: checkboxes
-  id: terms
+- type: textarea
+  id: information
   attributes:
-    label: Code of Conduct (for example)
-    description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-    options:
-    - label: I agree to follow this project's Code of Conduct
-      required: true
+    label: Project Details
+    description: Contact information, website url, logo, token contract address, link to CoinGecko/Coinmarketcap markets page
+    placeholder: 
+  validations: 
+    required: true

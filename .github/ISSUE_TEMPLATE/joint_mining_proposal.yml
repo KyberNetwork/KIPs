@@ -6,7 +6,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Projects can submit proposals to get their tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top of protocol fees. Please submit your proposal by filling up the necessary details below.
+      abc
 - type: textarea
   id: project-info
   attributes:

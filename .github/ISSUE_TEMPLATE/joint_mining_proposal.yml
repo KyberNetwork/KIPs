@@ -1,4 +1,12 @@
-name: Joint Mining Campaign Proposal
-description: Project proposal
-title: "[Proposal from]: "
-labels: [proposal, triage]
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: [bug, triage]
+assignees:
+- monalisa
+- nat
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug report!

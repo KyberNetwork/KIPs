@@ -66,3 +66,15 @@ body:
     placeholder: ex. 2 months, 3 months starting from DD/MM/YYYY
   validations:
     required: true   
+- type: dropdown
+  id: liquidity-mining
+  attributes:
+    label: Liquidity Mining
+    multiple: true
+    description: Which type of liquidity mining?
+    options:
+    - Liquidity-based
+    - Volume-based
+    - Other ideas
+  validations:
+    required: true

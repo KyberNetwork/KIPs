@@ -12,7 +12,7 @@ body:
   attributes:
     label: Proposal Summary and Motivation
     description: A summary of what you want to do with the joint mining campaign
-    placeholder: summary
+    placeholder: 
     value: 
   validations:
     required: true
@@ -71,6 +71,22 @@ body:
     - Other ideas
   validations:
     required: true
+- type: input
+  id: criteria
+  attributes:
+    label: Selection Criteria Checklist
+    description:  
+    placeholder: 
+  validations:
+    required: true   
+- type: input
+  id: collaborations
+  attributes:
+    label: Collaboration Details
+    description:  
+    placeholder: 
+  validations:
+    required: true     
 - type: textarea
   id: information
   attributes:

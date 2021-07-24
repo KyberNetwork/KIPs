@@ -85,7 +85,15 @@ body:
     description: Explain how your project/token meets most of the criteria provided in the liquidity mining proposal framework.
     placeholder: 
   validations:
-    required: true  
+    required: true 
+- type: textarea
+  id: contact-details
+  attributes:
+    label: Project Details
+    description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.
+    placeholder: 
+  validations:
+    required: true     
 - type: markdown
   attributes:
     value: |

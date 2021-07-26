@@ -10,7 +10,7 @@ body:
 - type: textarea
   id: project-info
   attributes:
-    label: Project Introduction
+    label: 1. Project Introduction
     description: Briefly describe your project and your token.
     placeholder: 
   validations:
@@ -18,7 +18,7 @@ body:
 - type: textarea
   id: key-details
   attributes:
-    label: Proposal Summary, Motivation, and Key Details
+    label: 2. Proposal Summary, Motivation, and Key Details
     description: Briefly summarize how you would like to work with Kyber on the Rainmaker liquidity mining program.
     placeholder: 
   validations:
@@ -26,7 +26,7 @@ body:
 - type: input
   id: knc-amount
   attributes:
-    label: KNC Amount Requested
+    label: 3. KNC Amount Requested
     description: How many KNC tokens are you requesting for? Please also state the USD value.
     placeholder: 
   validations:
@@ -34,7 +34,7 @@ body:
 - type: input
   id: token-amount
   attributes:
-    label: Project Contribution Amount
+    label: 4. Project Contribution Amount
     description: How many of your own project tokens do you intend to contribute? Please also state the USD value.
     placeholder: 
   validations:
@@ -42,7 +42,7 @@ body:
 - type: input
   id: network
   attributes:
-    label: Network
+    label: 5. Network
     description:  
     placeholder: ex. Ethereum, Polygon
   validations:
@@ -50,7 +50,7 @@ body:
 - type: dropdown
   id: vesting
   attributes:
-    label: Vesting Schedule
+    label: 6. Vesting Schedule
     description: Which option you will go for?
     options:
     - No vesting
@@ -61,33 +61,21 @@ body:
 - type: input
   id: duration
   attributes:
-    label: Campaign Start date and Duration
+    label: 7. Campaign Start date and Duration
     description: 
     placeholder: ex. 2 months, 3 months starting from DD/MM/YYYY
   validations:
     required: true   
-- type: dropdown
-  id: liquidity-mining
-  attributes:
-    label: Liquidity Mining
-    multiple: true
-    description: Which type of liquidity mining?
-    options:
-    - Liquidity-based
-    - Volume-based
-    - Other ideas
-  validations:
-    required: true
 - type: textarea
   id: selection-criteria
   attributes:
-    label: Selection Criteria Checklist
+    label: 8. Selection Criteria Checklist
     description: Explain how your project/token meets most of the criteria provided in the liquidity mining proposal framework.
     placeholder: 
   validations:
     required: true 
 - type: textarea
-  id: contact-details
+  id: 9. contact-details
   attributes:
     label: Project Details
     description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.

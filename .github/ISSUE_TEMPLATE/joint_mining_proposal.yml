@@ -19,8 +19,8 @@ body:
   id: key-details
   attributes:
     label: 2. Proposal Summary, Motivation, and Key Details
-    description: "[My name here](https://dmm.exchange/#/farms)"
-    placeholder: "[My name here](https://dmm.exchange/#/farms)"
+    description: Visit "[Here](https://dmm.exchange/#/farms)" to blah blah
+    placeholder: 
   validations:
     required: true    
 - type: input

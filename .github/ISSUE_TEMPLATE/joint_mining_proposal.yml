@@ -20,7 +20,7 @@ body:
   attributes:
     label: 2. Proposal Summary, Motivation, and Key Details
     description: Briefly summarize how you would like to work with Kyber on the Rainmaker liquidity mining program.
-    placeholder: 
+    placeholder: Make sure to check our Selection Criteria guidelines on dmmm.exchange and provide us information accordingly
   validations:
     required: true    
 - type: input

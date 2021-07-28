@@ -61,7 +61,7 @@ body:
 - type: dropdown
   id: duration
   attributes:
-    label: 7. Campaign Start date and Duration
+    label: 7. Campaign Duration
     description: 
     options:
     - 1 month

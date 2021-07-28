@@ -1,6 +1,6 @@
-name: Joint Mining Campaign Proposal
+name: Joint Liquidity Mining Proposal
 description: Project proposal
-title: "[Proposal from]: "
+title: "[Proposal title]: "
 labels: [proposal, triage]
 body:
 - type: markdown
@@ -58,14 +58,17 @@ body:
     - Other 
   validations:
     required: true
-- type: input
+- type: dropdown
   id: duration
   attributes:
     label: 7. Campaign Start date and Duration
     description: 
-    placeholder: ex. 2 months, 3 months starting from DD/MM/YYYY
+    options:
+    - 1 month
+    - 2 months
+    - 3 months
   validations:
-    required: true   
+    required: true
 - type: textarea
   id: selection-criteria
   attributes:

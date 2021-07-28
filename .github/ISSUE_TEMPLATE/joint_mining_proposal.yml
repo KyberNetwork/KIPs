@@ -83,7 +83,7 @@ body:
     label: 9. Project Details
     description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.
     placeholder: 
-  validations: "[Proposal title]: "
+  validations: 
     required: true     
 - type: markdown
   attributes:

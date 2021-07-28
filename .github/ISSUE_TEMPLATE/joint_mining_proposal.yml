@@ -19,7 +19,7 @@ body:
   id: key-details
   attributes:
     label: 2. Proposal Summary, Motivation, and Key Details
-    description: Briefly summarize how you would like to work with Kyber on the Rainmaker liquidity mining program.
+    description: "[My name here](https://dmm.exchange/#/farms)"
     placeholder: "[My name here](https://dmm.exchange/#/farms)"
   validations:
     required: true    

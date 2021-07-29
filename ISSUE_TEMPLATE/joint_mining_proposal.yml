@@ -1,0 +1,84 @@
+name: Joint Liquidity Mining Proposal
+description: Project proposal
+title: "[Proposal title]: "
+labels: [proposal, triage]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Projects can submit proposals to get their tokens voted into KyberDMM’s Rainmaker program to receive liquidity mining rewards on top of protocol fees. Please submit your proposal by filling up the necessary details below.
+- type: textarea
+  id: project-info
+  attributes:
+    label: 1. Project Introduction
+    description: Briefly describe your project and your token.
+    placeholder: 
+  validations:
+    required: true
+- type: textarea
+  id: key-details
+  attributes:
+    label: 2. Proposal Summary, Motivation, and Key Details
+    description: Please refer to the proposal framework and selection criteria guide when writing your proposal.
+    placeholder: 
+  validations:
+    required: true    
+- type: input
+  id: knc-amount
+  attributes:
+    label: 3. KNC Amount Requested
+    description: How many KNC tokens are you requesting for? Please also state the USD value.
+    placeholder: 
+  validations:
+    required: true  
+- type: input
+  id: token-amount
+  attributes:
+    label: 4. Project Contribution Amount
+    description: How many of your own project tokens do you intend to contribute? Please also state the USD value.
+    placeholder: 
+  validations:
+    required: true 
+- type: input
+  id: network
+  attributes:
+    label: 5. Network
+    description:  
+    placeholder: ex. Ethereum, Polygon
+  validations:
+    required: true       
+- type: dropdown
+  id: vesting
+  attributes:
+    label: 6. Vesting Schedule
+    description: Which option you will go for?
+    options:
+    - No vesting
+    - 14 days
+    - Other 
+  validations:
+    required: true
+- type: dropdown
+  id: duration
+  attributes:
+    label: 7. Campaign Duration
+    description: 
+    options:
+    - 1 month
+    - 2 months
+    - 3 months
+  validations:
+    required: true
+- type: textarea
+  id: contact-details
+  attributes:
+    label: 8. Project Details
+    description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.
+    placeholder: 
+  validations: 
+    required: true     
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out the form! Please also ensure that you have submitted your proposal on the [forum](https://gov.kyber.org/c/collaborations/7) for community discussion.
+

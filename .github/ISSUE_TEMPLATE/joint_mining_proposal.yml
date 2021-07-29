@@ -70,14 +70,6 @@ body:
   validations:
     required: true
 - type: textarea
-  id: selection-criteria
-  attributes:
-    label: 8. Selection Criteria Checklist
-    description: Explain how your project/token meets most of the criteria provided in the liquidity mining proposal framework.
-    placeholder: 
-  validations:
-    required: true 
-- type: textarea
   id: contact-details
   attributes:
     label: 9. Project Details

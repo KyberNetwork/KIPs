@@ -72,7 +72,7 @@ body:
 - type: textarea
   id: contact-details
   attributes:
-    label: 9. Project Details
+    label: 8. Project Details
     description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.
     placeholder: 
   validations: 

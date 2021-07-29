@@ -19,7 +19,7 @@ body:
   id: key-details
   attributes:
     label: 2. Proposal Summary, Motivation, and Key Details
-    description: Visit "[Here](https://dmm.exchange/#/farms)" to blah blah
+    description: Please refer to the proposal framework and selection criteria guide when writing your proposal.
     placeholder: 
   validations:
     required: true    

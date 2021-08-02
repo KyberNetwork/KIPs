@@ -45,9 +45,10 @@ Projects have to submit their proposal on this [Github form](https://github.com/
 3. KNC Amount Requested
 4. Amount of Tokens Contributed by your Project
 5. Network: Ethereum or Polygon
-6. Vesting: No vesting or 14 days vesting
-7. Campaign start date and duration: 1-3 months
-8. Project details: Contact information, website url, logo, token contract address, link to CoinGecko/Coinmarketcap markets page etc.
+6. Token pair option: ETH, WBTC, USDT, USDC, DAI and KNC
+7. Vesting: No vesting or 14 days vesting
+8. Campaign start date and duration: 1-3 months
+9. Project details: Contact information, website url, logo, token contract address, link to CoinGecko/Coinmarketcap markets page etc.
 
 ### Example
 
@@ -57,7 +58,7 @@ XYZ Finance is a DeFi project that...
 **2. Proposal Summary, Motivation and Key Details**
 *Refer to the selection criteria guide below.*
 
-XYZ Finance is proposing a joint liquidity mining program with Kyber to help improve liquidity for the XYZ token on the capital efficient KyberDMM protocol.
+XYZ Finance is proposing a joint liquidity mining program with Kyber to help improve liquidity for the XYZ token on KyberDMM protocol.
 
 During the campaign period, liquidity providers who add liquidity (deposit tokens) on the eligible XYZ-ETH pool will receive LP tokens that can be staked on the Yield page for additional XYZ and KNC token rewards. As part of the campaign launch, there will also be joint marketing efforts with Kyber Network.
 
@@ -81,20 +82,22 @@ Together with requested KNC rewards, total incentives exceed the minimum require
 
 **5. Network**
 Ethereum
-
-**6. Vesting**
+  
+**6. Token pair option**  ETH
+  
+**7. Vesting**
 14 days vesting
 
-**7. Campaign start date and duration**
+**8. Campaign start date and duration**
 Starts 30th August, lasts for 1 month
 
-Project Details
-Website: 
-Twitter: 
-Logo: 
-Token Contract: 
-CMC: 
-CoinGecko: 
+**9. Project Details**
+Website,
+Twitter,
+Logo,
+Token Contract,
+CMC,
+CoinGecko
 
 ## Selection Criteria Guide
 
@@ -103,13 +106,13 @@ Projects/Tokens are chosen to be part of Rainmaker liquidity mining based on a f
 | Criteria                                                                                                                                                           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Demand for the token                                                                                                                                               | Recent trade volume of the token pair in the market can be considered as an indicator of token demand. Higher trade volume would mean more fees for the KyberDMM protocol and liquidity providers over time.                                                                                                                                                                                                                                                                                                                                                          |
-| Project reputation, quality, and security                                                                                                                          | Since Rainmaker will encourage more users to purchase the project tokens and adopt related products, it is ideal to collaborate with the best and most promising projects in DeFi.                                                                                                                                                                                                                                                                                                                                                                                    |
+| Project reputation, quality, and security                                                                                                                          | Since Rainmaker will encourage more liquidity contribution to the project tokens and adopt related products, it is ideal to collaborate with the best and most promising projects in DeFi.                                                                                                                                                                                                                                                                                                                                                                                    |
 | Community size and engagement level                                                                                                                                | Large, active communities can provide bigger network effects and raise awareness of KyberDMM’s key benefits to more users. Community members from the applying project are highly encouraged to voice their support for the proposal in the forum.                                                                                                                                                                                                                                                                                                                    |
 | Additional value to/Synergy with Kyber Network (marketing, community, product, network effects etc.)                                                               | Partnerships or collaborations should be mutually beneficial and add value to both parties. E.g. integrations that showcase DeFi composability, joint educational activities.                                                                                                                                                                                                                                                                                                                                                                                         |
 | Project tokens need to have a minimum of approximately $200,000 worth of tokens locked in an KyberDMM amplified pool. The pool can be Token-ETH or Token-stablecoin.   | Sufficient initial liquidity for the token pair is required to achieve good rates for traders and generate meaningful volume. Minimum value locked also depends on the AMP (amplification factor) of the pool. Less tokens are required with higher AMP; especially useful for more stable pairs. AMP=1.15 to 1.3 recommended for most non-stable pairs.                                                                                                                                                                                                                                                                                |
 | Ability to at least match the KNC incentives provided by Kyber Network. Minimum of $200,000 worth of incentives in total from both parties. | Both Kyber and the project should commit a meaningful amount of incentives in order to ensure an attractive APY and amplify the impact of the Rainmaker program. The project should indicate a ballpark range of token incentives they are willing to contribute. KNC reward pool will depend on whether it is a new or established token: Kyber can cover from 30%, 50%, or up to 1:1 of the project’s contribution, depending on how established the token is. On top of KNC rewards, Kyber will provide additional market budget and support to promote the campaign. |
 
-Once the proposal has been submitted on this [Github form](https://github.com/p-thudo/KIPs/issues/new?assignees=&labels=proposal%2Ctriage&template=joint_mining_proposal.yml&title=%5BProposal+from%5D%3A+) and the [forum](https://gov.kyber.org/c/collaborations), the Kyber core team will discuss it with the community. If the Kyber core team determines that the project has met the requirements stipulated in the liquidity mining framework, an on-chain proposal will be made for voting by the KyberDAO on kyber.org. The entire process takes approximately **14 days** from the start of the proposal submission.
+Once the proposal has been submitted on this [Github form](https://github.com/p-thudo/KIPs/issues/new?assignees=&labels=proposal%2Ctriage&template=joint_mining_proposal.yml&title=%5BProposal+from%5D%3A+) and the [forum](https://gov.kyber.org/c/collaborations), the Kyber core team will discuss it with the Kyber community. If the community determines that the project has met the requirements stipulated in the liquidity mining framework, an on-chain proposal will be made for voting by the KyberDAO on kyber.org. The entire process takes approximately **14 days** from the start of the proposal submission.
 
 
 ## Voting Process

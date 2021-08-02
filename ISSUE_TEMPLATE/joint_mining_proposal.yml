@@ -46,11 +46,26 @@ body:
     description:  
     placeholder: ex. Ethereum, Polygon
   validations:
-    required: true       
+    required: true 
+- type: dropdown
+  id: pair
+  attributes:
+    label: 6. Token pair option
+    multiple: true
+    description: Which option you will go for?
+    options:
+    - ETH
+    - WBTC
+    - USDC
+    - USDT
+    - DAI
+    - KNC
+  validations:
+    required: true
 - type: dropdown
   id: vesting
   attributes:
-    label: 6. Vesting Schedule
+    label: 7. Vesting Schedule
     description: Which option you will go for?
     options:
     - No vesting
@@ -61,7 +76,7 @@ body:
 - type: dropdown
   id: duration
   attributes:
-    label: 7. Campaign Duration
+    label: 8. Campaign Duration
     description: 
     options:
     - 1 month
@@ -72,7 +87,7 @@ body:
 - type: textarea
   id: contact-details
   attributes:
-    label: 8. Project Details
+    label: 9. Project Details
     description: Please provide us your contact information, website url, logo, token contract address and link to CoinGecko/Coinmarketcap markets page.
     placeholder: 
   validations: 

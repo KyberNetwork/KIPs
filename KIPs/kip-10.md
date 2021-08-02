@@ -36,7 +36,7 @@ Although proposal details may differ depending on the needs of each individual p
 
 Proposals have to be first submitted to Kyber’s governance [forum](https://gov.kyber.org/c/collaborations) for discussion for 5-7 days, where the Kyber community will discuss and determine the eligibility of a project and its KNC reward allocation.
 
-Projects have to submit their proposal on this [Github form](https://github.com/p-thudo/KIPs/issues/new?assignees=&labels=proposal%2Ctriage&template=joint_mining_proposal.yml&title=%5BProposal+from%5D%3A+) as well as the Kyber governance [forum](https://gov.kyber.org/c/collaborations). It is recommended that proposals follow the template given below.
+Projects have to submit their proposal on this [Github form](https://github.com/KyberNetwork/KIPs/issues/new?assignees=&labels=proposal%2Ctriage&template=joint_mining_proposal.yml&title=%5BProposal+title%5D%3A+) as well as the Kyber governance [forum](https://gov.kyber.org/c/collaborations). It is recommended that proposals follow the template given below.
 
 ### The template
 

@@ -79,7 +79,7 @@ On the other hand, the DAO's short executor is proposed to be this price oracle 
 ### Schedule
 There should be no restriction on when the liquidation process can start, however, to allow more possibilities in the future, the Liquidation process is designed to have a *LiquidationSchedule*, which includes:
 1. **Start time** - the time that the first liquidation process will happen.
-2. **Repeated Period** - the time period between between the start of the current liquidation process and the start of the next.
+2. **Repeated Period** - the time period between the start of the current liquidation process and the start of the next.
 3. **Duration** - the duration of each liquidation period.
 
 For example:

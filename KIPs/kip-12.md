@@ -2,10 +2,19 @@
 kip: 12
 title: KyberDMM Expansion and Liquidity Mining on BSC
 status: Active
-type: Mint KNC
+type: Spend KNC
 authors: Kyber Network team
 created: 2021-08-10
 ---
+
+```
+executor: long timelock executor
+voting_power: current staked voting power
+execution: transfer KNC to TBD
+start_timestamp:[TBD]
+end_timestamp: [TBD]
+
+```
 
 ## Summary
 

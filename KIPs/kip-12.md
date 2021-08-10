@@ -10,9 +10,9 @@ created: 2021-08-10
 ```
 executor: long timelock executor
 voting_power: current staked voting power
-execution: transfer KNC to TBD
-start_timestamp:[TBD]
-end_timestamp: [TBD]
+execution: transfer 2M KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
+start_timestamp: 1628665200 (Wed Aug 11 2021 07:00:00 UTC)
+end_timestamp: 1629184020 (Tue Aug 17 2021 07:07:00 UTC)
 
 ```
 

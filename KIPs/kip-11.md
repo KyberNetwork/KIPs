@@ -101,9 +101,9 @@ For KIP-11, Kyber's native token **KNC is proposed as the whitelisted reward tok
 
 ### Default settings
 1. Liquidation Schedule
-1.1 Start: //TODO
-1.2 Repeated period: 1 week
-1.3 Duration: 1 day
+1.1 Start: 1629184027
+1.2 Repeated period: 2 weekss
+1.3 Duration: 4 hours
 2. Liquidation operator: Dao Operator at 0xe6a7338cba0a1070adfb22c07115299605454713
 3. Whitelisted reward tokens: KNC
 4. Oracle operator: Dao Operator at 0xe6a7338cba0a1070adfb22c07115299605454713

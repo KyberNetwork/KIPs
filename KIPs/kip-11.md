@@ -10,9 +10,11 @@ created: 2021-07-19
 ```
 executor: long timelock executor
 voting_power: current staked voting power
-execution: [Waiting for audit to finalize]
-start_timestamp: [Waiting for audit to finalize]
-end_timestamp: [Waiting for audit to finalize]
+execution:
+  1. remove the current NoLiquidityStrategy contract (0x8694103eD4927D389F63213619708e550e9631D7)
+  2. authorize new strategy 0x8FdFBC24fD80Fdc4BEAFD781e88332C19fB4e2f4
+start_timestamp: 1628574524 (Tue Aug 10 2021 05:48:44 UTC)
+end_timestamp: 1629179324 (Tue Aug 17 2021 05:48:44 UTC)
 ```
 
 ## Summary
@@ -199,7 +201,7 @@ The merkle tree construction is documented [here](https://docs.google.com/docume
 ## Onchain execution
 
 1. Remove/unauthorize the current liquidation strategy **0x8694103eD4927D389F63213619708e550e9631D7** from Treasury pool **0x5EC0DcF4f6F55f28550c70B854082993fdc0D3B2**
-2. Authorize new liquidation strategy in Treasury pool: [Waiting for audit to finalize]
+2. Authorize new liquidation strategy in Treasury pool: 0x8FdFBC24fD80Fdc4BEAFD781e88332C19fB4e2f4
 
 ## Conclusion
 This fee liquidation framework will apply to all new liquidity protocols added to Kyber’s liquidity hub. Each protocol sends a portion of their fees to KyberDAO and fees will be converted to the whitelisted reward token (KNC) by default, before being distributed to voters. As more protocols are created and added to Kyber’s liquidity hub, more fees will flow to KyberDAO and voters will receive more KNC rewards. Voters can easily stake the KNC on KyberDAO again for more voting power and rewards, without the hassle of making another swap.

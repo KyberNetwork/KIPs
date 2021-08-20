@@ -52,7 +52,7 @@ body:
   attributes:
     label: 6. Token pair option
     multiple: true
-    description: Which option you will go for?
+    description: Which option will you go for?
     options:
     - ETH
     - WBTC
@@ -60,13 +60,14 @@ body:
     - USDT
     - DAI
     - KNC
+    - Others
   validations:
     required: true
 - type: dropdown
   id: vesting
   attributes:
     label: 7. Vesting Schedule
-    description: Which option you will go for?
+    description: Which option will you go for?
     options:
     - No vesting
     - 14 days

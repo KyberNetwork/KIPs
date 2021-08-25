@@ -10,7 +10,7 @@ created: 2021-08-25
 ```
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer 3M USD worth of KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
+execution: transfer 1.4M KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
 start_timestamp: 1629961200 (Thu Aug 26 2021 07:00:00 UTC)
 end_timestamp: 1630393626 (Tue Aug 31 2021 07:07:06 UTC)
 

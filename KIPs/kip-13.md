@@ -12,7 +12,7 @@ executor: short timelock executor
 voting_power: current staked voting power
 execution: transfer 3M KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
 start_timestamp: 1629896400 (Wed Aug 25 2021 13:00:00 UTC)
-end_timestamp: 1630393627 (Tue Aug 31 2021 07:07:07 UTC)
+end_timestamp: 1630393626 (Tue Aug 31 2021 07:07:06 UTC)
 
 ```
 ## Summary

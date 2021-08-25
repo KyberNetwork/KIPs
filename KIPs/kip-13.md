@@ -4,15 +4,15 @@ title: KyberDMM Expansion and Liquidity Mining on Avalanche
 status: Active
 type: Spend KNC
 authors: Kyber Network team
-created: 2021-08-24
+created: 2021-08-25
 ---
 
 ```
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer 3M KNC to 0x*** (kyber multisig to handle KNC bridging between ethereum and other chains)
-start_timestamp:  (Tue Aug 24 2021 07:00:00 UTC)
-end_timestamp:  (Mon Aug 30 2021 07:07:00 UTC)
+execution: transfer 3M KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
+start_timestamp: 1629896400 (Wed Aug 25 2021 13:00:00 UTC)
+end_timestamp: 1630393620 (Tue Aug 31 2021 07:07:00 UTC)
 
 ```
 ## Summary
@@ -53,6 +53,7 @@ Overall, this will kick start KyberDMM’s role on Avalanche and help Kyber take
 We propose that *$3M worth of KNC and $2M worth of AVAX* be distributed over 2 months for liquidity providers of participating pools. At least one of the participating pools should have an AVAX pair. 
 
 `Campaign duration: 2 months`
+
 `Vesting period per harvest: 14 days`
 
 The following pools are proposed:

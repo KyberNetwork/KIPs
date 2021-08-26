@@ -43,6 +43,16 @@ Chainlink keeper service will be deployed to automatically convert LP tokens int
 
 Technical details about the B.AMM along with the original whitepaper could be found [here](https://docs.bprotocol.org/technical-documentation/untitled-1).
 
+## How BAMM works?
+The process of selling fee token X to KNC (and for the reminder of this section we assume for simplicity that X is ETH) is done by offering the ETH for sale (in return of KNC) according to the market price, which is determined according to a price oracle (e.g., Chainlink). An optional discount on market price is given according to the imbalance size (the amount of tokens to sell w.r.t a target inventory size), and the exact formula is an adaptation of Curve Finance stable swap invariant.
+
+Hence, the BAMM is in fact a pricing function for ETH vs KNC, and adhere to kyber reserve interface. Therefor the prices it offers are available to all of kyber network users.
+
+### Use of Curve formula
+Curve Finance AMM is using the stable swap invariant to price assets. It’s core property is that it has a target portfolio (i.e., target ratio between two or more assets) and it provides different slippage according to the distance from the target portfolio, and the bigger the target is, the bigger the slippage is.
+This property makes it ideal to use the stable swap invariant for the automated rebalancing process. However, the stable swap invariant was tailored to correlated asset classes, e.g., DAI and USDT.
+As the existing Kyber Network's system already relies on an external price feed for the liquidation process, we can normalize all portfolio assets to their USD values, and plug it into the stable swap invariant, without additional security risk.
+
 ## Implementation
 TODO
 

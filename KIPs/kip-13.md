@@ -54,7 +54,7 @@ This property makes it ideal to use the stable swap invariant for the automated 
 As the existing Kyber Network's system already relies on an external price feed for the liquidation process, we can normalize all portfolio assets to their USD values, and plug it into the stable swap invariant, without additional security risk.
 
 ## Implementation
-TODO
+https://github.com/dr-f/BAMM/blob/main/contracts/BAMM.sol
 
 ## Onchain execution
 

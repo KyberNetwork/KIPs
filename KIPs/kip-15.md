@@ -47,9 +47,9 @@ During the campaign period, liquidity providers who add liquidity (deposit token
 
 Creator will provide the minimum requirement of $90,000 worth of liquidity on a new amplified CTR-ETH pool on KyberDMM. Together with requested KNC rewards, total incentives exceed the minimum requirement of $90,000.
 
-
 | KNC requested | Project contribution | Token pair | Vesting Schedule |Campaign duration|
-| $30,000      |$90,000             |CTR/ETH   |14 Days         |1 Month          |
+|---------------|----------------------|------------|------------------|-----------------|
+| $30,000       |$90,000               |CTR/ETH     |14 Days           |1 Month          |
 
 
 ## xToken
@@ -71,9 +71,9 @@ Although the incentivized pool will be an XTK-ETH pool, we believe that a reward
 The core xToken team is a reputable, non-anonymous group of engineers and analysts who have shown resilience building over multiple DeFi cycles. xToken has an ambitious roadmap and has been on a torrid development schedule, with TVL increasing significantly in the past month alone.
 
 
-|KNC requested|Project contribution|Token pair|Vesting Schedule|Campaign duration|
-
-|$100,000      |$200,000           |XTK/ETH   |14 Days         |8 weeks          |
+| KNC requested | Project contribution | Token pair | Vesting Schedule | Campaign duration |
+|---------------|----------------------|------------|------------------|------------------ |
+|$100,000       |$200,000              |XTK/ETH     |14 Days           |8 weeks            |
 
 
 ## xDollar
@@ -106,6 +106,6 @@ As on Polygon, xDollar will maintain the minimum requirement of $200,000 worth o
 
 We propose this campaign be executed into two phases because xDollar is planning to upgrade its platform in late Q3 & early Q4. There is a transition period for xDollar v1 to xDollar v2.
 
-|KNC requested--------------------|Project contribution--------|Token pair|Vesting Schedule|Campaign duration--------------|
-
+| KNC requested        | Project contribution    | Token pair | Vesting Schedule | Campaign duration |
+|---------------------|---------------------------|------------|------------------|-------------------------|
 |$10,000(Phase 1),$15,000(phase 2)|$20,000(Phase 1),$30,000(phase 2)|xUSD/USDC |NO        |1 Month(Phase 1),1 Month(Phase 2)|

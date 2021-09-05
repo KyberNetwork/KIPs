@@ -1,6 +1,6 @@
 ---
 kip: 14
-title: Mint additional 4M KNC from ecosystem fund
+title: Allocate additional 5M KNC from the ecosystem fund
 status: Active
 type: Mint KNC
 authors: Kyber Network team

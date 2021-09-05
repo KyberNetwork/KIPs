@@ -107,5 +107,5 @@ As on Polygon, xDollar will maintain the minimum requirement of $200,000 worth o
 We propose this campaign be executed into two phases because xDollar is planning to upgrade its platform in late Q3 & early Q4. There is a transition period for xDollar v1 to xDollar v2.
 
 | KNC requested        | Project contribution    | Token pair | Vesting Schedule | Campaign duration |
-|---------------------|---------------------------|------------|------------------|-------------------------|
-|$10,000(Phase 1),$15,000(phase 2)|$20,000(Phase 1),$30,000(phase 2)|xUSD/USDC |NO        |1 Month(Phase 1),1 Month(Phase 2)|
+|---------------------|---------------------------|------------|------------------|-----------------------|
+|$10,000(Phase 1),$15,000(phase 2)|$20,000(Phase 1),$30,000(phase 2)|xUSD/USDC |NO        |1 Month(Phase 1), 1 Month(Phase 2)|

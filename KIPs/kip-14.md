@@ -18,7 +18,7 @@ voting_option_titles: "Accept", "Reject"
 
 ## Summary
 
-There are approximately `22,930,588 KNC tokens` remaining in the Kyber ecosystem fund after allocating for liquidity mining campaigns on Ethereum, Polygon, BSC and Avalanche. 
+There are approximately `24,912,378 KNC tokens` remaining in the Kyber ecosystem fund after allocating for liquidity mining campaigns on Ethereum, Polygon, BSC and Avalanche. 
 
 There are many projects on these chains that are proposing to be part of the ‘Rainmaker’ liquidity mining program. 
 

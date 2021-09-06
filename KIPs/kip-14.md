@@ -9,8 +9,8 @@ created: 2021-09-06
 
 ```
 voting_campaign_type: general
-voting_start_timestamp: 1631026800 (Tue, 7 Sep 2021 23:00:00 UTC)
-voting_end_timestamp: 1631372400 (Sat, 11 Sep 2021 23:00:00 UTC)
+voting_start_timestamp: 1631026800 (Tue, 7 Sep 2021 07:00:00 UTC)
+voting_end_timestamp: 1631372400 (Sat, 11 Sep 2021 07:00:00 UTC)
 voting_min_knc_voted_percentage: 40000000000000000`
 voting_options: 1, 2
 voting_option_titles: "Accept", "Reject"

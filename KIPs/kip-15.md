@@ -12,9 +12,9 @@ executor: short timelock executor
 voting_power: current staked voting power
 execution: transfer 95,350 knc to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
 start_timestamp: 1630998000 (Tue, 7 Sep 2021 07:00:00 UTC)
-end_timestamp: 1631343600 (Sat, 11 Sep 2021 07:00:00 UTC)
+end_timestamp: 1631603227 (Tue, 14 Sep 2021 07:07:07 UTC)
 voting_options: 1, 2, 3, 4, 5
-voting_option_titles: "Creator", "xDollar", "xToken", "HERO", "Reject All"
+voting_option_titles: "Creator", "xDollar", "xToken", "Step Hero", "Reject All"
 ```
 
 ## Summary

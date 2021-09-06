@@ -4,17 +4,17 @@ title: Additional LM on ETH & Polygon
 status: Active
 type: Spend KNC
 authors: Kyber Network team
-created: 2021-09-05
+created: 2021-09-06
 ---
 
 ```
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer knc to 
-start_timestamp: 
-end_timestamp: 
-voting_options: 1, 2, 3, 4
-voting_option_titles: "Creator", "xDollar", "xToken", "Reject All"
+execution: transfer 95,350 knc to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
+start_timestamp: 1631026800 (Tue, 7 Sep 2021 23:00:00 UTC)
+end_timestamp: 1631372400 (Sat, 11 Sep 2021 23:00:00 UTC)
+voting_options: 1, 2, 3, 4, 5
+voting_option_titles: "Creator", "xDollar", "xToken", "HERO", "Reject All"
 ```
 
 ## Summary
@@ -26,6 +26,8 @@ Based on forum discussions, the Kyber community is proposing that the following 
 2. xToken on Ethereum, for [XTK-ETH](https://gov.kyber.org/t/joint-liquidity-mining-w-xtoken-on-kyberdmm/355)
 
 3. xDollar on Polygon in 2 phases, for [xUSD-USDC](https://gov.kyber.org/t/joint-liquidity-mining-with-xdollar-polygon-on-kyberdmm/379)
+
+4. 4. Step Hero on BSC, for the [HERO token](https://gov.kyber.org/t/stephero-hero-joint-liquidity-mining-on-kyberdmm/397 )
  
 
 ## Creator Chain
@@ -109,3 +111,26 @@ We propose this campaign be executed into two phases because xDollar is planning
 | KNC requested        | Project contribution    | Token pair | Vesting Schedule | Campaign duration |
 |---------------------|---------------------------|------------|------------------|-----------------------|
 |$10,000(Phase 1),$15,000(phase 2)|$20,000(Phase 1),$30,000(phase 2)|xUSD/USDC |NO        |1 Month(Phase 1), 1 Month(Phase 2)|
+
+
+## Step Hero
+
+### Project Introduction
+
+Step Hero is the lucrative NFT fantasy-themed RPG game on BSC and Polygon. The comprehensive ecosystem includes $HERO token, world class design of NFT collectibles, cross-chain marketplace and attractive gameplay.
+
+### Motivation, and Key Details
+
+Step Hero is proposing a joint liquidity mining program with Kyber to help improve liquidity for the HERO token on Binance Smart Chain (BSC).
+Liquidity providers who add liquidity to the eligible HERO pool on BSC will enjoy high capital efficiency and receive LP tokens that can be staked on the Yield page for additional KNC and HERO token rewards.
+
+Our visions are to bring users the most novelistic gaming experience and the most lucrative earning opportunities while promoting the expansion of the BSC & Polygon ecosystems and the mass adoption of blockchain applications. More than that, we target to become one of the leading NFT ecosystems in the blockchain space.
+
+Step Hero Team is an enthusiastic game studio - a dynamic young team with various years of experience in blockchain generally and cryptocurrency particularly. Our team has more than 50 members with impressive backgrounds in different fields. We’re game-lovers with the desire to recreate legendary characters of their childhood game in real life aligning with the 4.0 technology trend. Step Hero team took time to thoroughly study each character and create a creative NFT project, including a high liquidity marketplace and RPG game. Step Hero is the result of a proper working spirit. Our team’s ambition is to make Step Hero the best NFT game in the market.
+
+| KNC requested | Project contribution | Token pair | Vesting Schedule |Campaign duration|
+|---------------|----------------------|------------|------------------|-----------------|
+| $50,000       |$100,000               |HERO-TBD    |14 Days           |2 Months          |
+
+
+

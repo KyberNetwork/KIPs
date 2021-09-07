@@ -17,6 +17,7 @@ end_timestamp: 1631603220 (Tue, 14 Sep 2021 07:07:00 UTC)
 options: 1, 2, 3, 4, 5
 option_titles: "Creator", "xDollar", "xToken", "Step Hero", "None"
 min_knc_voted_percentage: 30000000000000000
+
 ```
 
 ## Summary

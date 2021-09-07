@@ -8,12 +8,16 @@ created: 2021-09-06
 ---
 
 ```
-voting_campaign_type: general
-voting_start_timestamp: 1631026800 (Tue, 7 Sep 2021 07:00:00 UTC)
-voting_end_timestamp: 1631603227 (Tue, 14 Sep 2021 07:07:07 UTC)
-voting_min_knc_voted_percentage: 40000000000000000`
-voting_options: 1, 2
-voting_option_titles: "Accept", "Reject"
+campaign_type: binary
+executor: short timelock executor
+voting_power: current staked voting power
+execution: mint 5M KNC from ecosyatem fund
+start_timestamp: 1630998000 (Tue, 7 Sep 2021 07:00:00 UTC)
+end_timestamp: 1631603220 (Tue, 14 Sep 2021 07:07:00 UTC)
+options: 1, 2
+option_titles: "Accept", "Reject"
+min_knc_voted_percentage: 40000000000000000
+
 ```
 
 ## Summary

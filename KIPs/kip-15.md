@@ -8,13 +8,15 @@ created: 2021-09-06
 ---
 
 ```
+campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer 95,350 knc to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains)
+execution: transfer requested KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains) depends on voting result.
 start_timestamp: 1630998000 (Tue, 7 Sep 2021 07:00:00 UTC)
-end_timestamp: 1631603227 (Tue, 14 Sep 2021 07:07:07 UTC)
-voting_options: 1, 2, 3, 4, 5
-voting_option_titles: "Creator", "xDollar", "xToken", "Step Hero", "Reject All"
+end_timestamp: 1631603220 (Tue, 14 Sep 2021 07:07:00 UTC)
+options: 1, 2, 3, 4, 5
+option_titles: "Creator", "xDollar", "xToken", "Step Hero", "None"
+min_knc_voted_percentage: 30000000000000000
 ```
 
 ## Summary
@@ -27,7 +29,7 @@ Based on forum discussions, the Kyber community is proposing that the following 
 
 3. xDollar on Polygon in 2 phases, for [xUSD-USDC](https://gov.kyber.org/t/joint-liquidity-mining-with-xdollar-polygon-on-kyberdmm/379)
 
-4. 4. Step Hero on BSC, for the [HERO token](https://gov.kyber.org/t/stephero-hero-joint-liquidity-mining-on-kyberdmm/397 )
+4. Step Hero on BSC, for the [HERO token](https://gov.kyber.org/t/stephero-hero-joint-liquidity-mining-on-kyberdmm/397 )
  
 
 ## Creator Chain

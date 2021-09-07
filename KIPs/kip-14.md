@@ -11,7 +11,7 @@ created: 2021-09-06
 campaign_type: binary
 executor: short timelock executor
 voting_power: current staked voting power
-execution: ttransfer 5M KNC from ecosystem funds to daoOperator & ~1.78M KNC for Avalaunch LM
+execution: transfer 5M KNC from ecosystem funds to daoOperator & ~1.78M KNC for Avalaunch LM
 start_timestamp: 1630998000 (Tue, 7 Sep 2021 07:00:00 UTC)
 end_timestamp: 1631603220 (Tue, 14 Sep 2021 07:07:00 UTC)
 options: 1, 2

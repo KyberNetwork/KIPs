@@ -26,7 +26,7 @@ Based on forum discussions, the Kyber community is proposing that the following 
 
 1. DeFi Warrior(FIWA) chain on BSC, for [FIWA-USDT](https://gov.kyber.org/t/joint-liquidity-mining-defiwarrior-fiwa-token-on-kyberdmm/421)
 
-2. Jarvis Network for [multiple pools](https://gov.kyber.org/t/joint-lm-with-jarvis-network-for-incentivizing-forex-pools/372/18) on Polygon.
+2. Jarvis Network on Polygon, for [jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC](https://gov.kyber.org/t/joint-lm-with-jarvis-network-for-incentivizing-forex-pools/372/18) .
  
 
 ## DeFi Warrior(FIWA)
@@ -89,4 +89,4 @@ Jarvis Network will provide liquidity on a new amplified `jEUR-USDC, jGBP-USDC a
 
 | KNC requested        | Project contribution    | Token pair | Vesting Schedule | Campaign duration |
 |---------------------|---------------------------|------------|------------------|-----------------------|
-|$140,000(~77,000 KNC) |$100,000(~6,670 UMA),$200,000(~2,857,000 JRT)|jEUR/USDC, jGBP/USDC, jCHF/USDC and AUR/USDC|conditional based on KNC payment|8 Weeks|
+|$140,000(~77,000 KNC Tokens) |$100,000(~6,670 UMA tokens), $200,000(~2,857,000 JRT tokens)|jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC|conditional based on KNC payment|8 Weeks|

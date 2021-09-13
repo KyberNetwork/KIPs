@@ -28,7 +28,7 @@ Based on forum discussions, the Kyber community is proposing that the following 
 
 2. Jarvis Network on Polygon, for [jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC](https://gov.kyber.org/t/joint-lm-with-jarvis-network-for-incentivizing-forex-pools/372/18).
 
-3. Ape In on Avalaunch, for [APEIN-WAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
+3. Ape In on Avalaunche, for [APEIN-WAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
 
 ## DeFi Warrior(FIWA)
 
@@ -124,4 +124,5 @@ Ape In will provide $200k worth of APEIN rewards for 8 weeks, in addition to see
 | $100,000       |$200,000             |APEIN-WAVAX   |14 Days           |2 Months         |
 
 
-`Note`: Minor campaign details (e.g. launch date, vesting schedule) may change if deemed appropriate by both parties. The amount of KNC requested and the partner project's token contribution cannot be changed once the voting campaign is live on kyber.org
+
+**`Note`: Minor campaign details (e.g. launch date, vesting schedule) may change if deemed appropriate by both parties. The amount of KNC requested and the partner project's token contribution cannot be changed once the voting campaign is live on kyber.org**

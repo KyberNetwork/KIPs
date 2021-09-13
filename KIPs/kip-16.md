@@ -28,7 +28,7 @@ Based on forum discussions, the Kyber community is proposing that the following 
 
 2. Jarvis Network on Polygon, for [jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC](https://gov.kyber.org/t/joint-lm-with-jarvis-network-for-incentivizing-forex-pools/372/18).
 
-3. Ape In on Avalaunche, for [APEIN-WAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
+3. Ape In on Avalanche, for [APEIN-WAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
 
 ## DeFi Warrior(FIWA)
 

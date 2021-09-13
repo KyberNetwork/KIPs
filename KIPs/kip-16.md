@@ -1,10 +1,10 @@
 ---
 kip: 16
-title: Joint LM with DeFi Warrior and Jarvis Network
+title: Joint LM with DeFi Warrior, Jarvis Network and Ape In
 status: Active
 type: Spend KNC
 authors: Kyber Network team
-created: 2021-09-06
+created: 2021-09-13
 ---
 
 ```
@@ -14,8 +14,8 @@ voting_power: current staked voting power
 execution: transfer requested KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains) depends on voting result.
 start_timestamp: 1631603227 (Tue, 14 Sep 2021 07:07:07 UTC)
 end_timestamp: 1631948827 (Tue, 18 Sep 2021 07:07:00 UTC)
-options: 1, 2, 3
-option_titles: "DeFi Warrior", "Jarvis", "APEIN", "None"
+options: 1, 2, 3, 4
+option_titles: "DeFi Warrior", "Jarvis", "Ape In", "None"
 min_knc_voted_percentage: 30000000000000000
 
 ```
@@ -28,7 +28,7 @@ Based on forum discussions, the Kyber community is proposing that the following 
 
 2. Jarvis Network on Polygon, for [jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC](https://gov.kyber.org/t/joint-lm-with-jarvis-network-for-incentivizing-forex-pools/372/18).
 
-3. APE In Finance on Avalaunch, for [APEIN-wAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
+3. Ape In on Avalaunch, for [APEIN-WAVAX](https://gov.kyber.org/t/joint-liquidity-mining-on-avalanche-with-apein-on-kyberdmm/438).
 
 ## DeFi Warrior(FIWA)
 
@@ -92,7 +92,7 @@ Jarvis Network will provide liquidity on a new amplified `jEUR-USDC, jGBP-USDC a
 |---------------------|---------------------------|------------|------------------|-----------------------|
 |$140,000(~77,000 KNC Tokens) |$100,000(~6,670 UMA tokens), $200,000(~2,857,000 JRT tokens)|jEUR-USDC, jGBP-USDC, jCHF-USDC and AUR-USDC|conditional based on KNC payment|8 Weeks|
 
-## APE In Finance
+## Ape In
 
 ### Project Introduction
 

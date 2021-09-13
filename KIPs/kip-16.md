@@ -85,7 +85,7 @@ However, mind that using AUR tokens has few interesting consequences:
 As part of the campaign launch, there will also be joint marketing efforts with Kyber Network.
 
 Jarvis Network is an ideal candidate for Rainmaker Liquidity Mining on KyberDMM. We expect constant arbitrage opportunities between Jarvis Exchange, which uses Chainlink price feed, and KyberDMM, which will generate trading fees. Jarvis Network’s jFIAT have a direct fiat on and off-ramp on Polygon, to help to buy or sell jFIAT in order to participate in the program.
-Jarvis Network will provide liquidity on a new amplified `jEUR-USDC, jGBP-USDC and jCHF-USDC` pool on KyberDMM, as well as amplified liquidity for the `AUR-USDC` pool. Together with requested KNC rewards, total incentives exceed $200,000.
+Jarvis Network will provide liquidity on a new amplified `jEUR-USDC, jGBP-USDC and jCHF-USDC` pool on KyberDMM, as well as amplified liquidity for the `AUR-USDC` pool. Together with requested KNC rewards, total incentives exceed $200,000. Note that `AUR` token is yet to be deployed.
 
 | KNC requested        | Project contribution    | Token pair | Vesting Schedule | Campaign duration |
 |---------------------|---------------------------|------------|------------------|-----------------------|

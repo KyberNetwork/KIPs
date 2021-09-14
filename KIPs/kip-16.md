@@ -12,8 +12,8 @@ campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
 execution: transfer requested KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains) depends on voting result.
-start_timestamp: 1631603227 (Tue, 14 Sep 2021 07:07:07 UTC)
-end_timestamp: 1631948827 (Sat, 18 Sep 2021 07:07:07 UTC)
+start_timestamp: 1631646427 (Tue, 14 Sep 2021 19:07:07 UTC)
+end_timestamp: 1631992027 (Sat, 18 Sep 2021 19:07:07 UTC)
 options: 1, 2, 3, 4
 option_titles: "DeFi Warrior", "Jarvis", "Ape In", "None"
 min_knc_voted_percentage: 30000000000000000

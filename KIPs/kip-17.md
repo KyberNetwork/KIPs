@@ -75,7 +75,7 @@ As part of the campaign launch, there will also be joint marketing efforts with 
 
 - Add liquidity to UND /USDT, UND/KNC and UND/UNB pools to get more rewards.
 
-`Key reasons why Unbound is an ideal candidate for Rainmaker Liquidity Mining:`
+**Key reasons why Unbound is an ideal candidate for Rainmaker Liquidity Mining:**
 
 Unbound Finance as a DeFi project has a lot of support, with 15k+ followers on Twitter and 5500+ Telegram members. It’s also backed by well-known funds in the space such as Pantera, Arrington Capital, CMS,Ledgerprime, Hashed, Hashkey and many more. It has some industry veterans on board as investors as well.
 
@@ -108,17 +108,17 @@ Along with this, once $UNB goes live, we will also give $500k in rewards to UND/
 
 **Liquidity Mining**
 
-* Part A: 2 -months LM campaign with a 125K KNC(~$250K) and 60% of UND minting fee reward for 3 UND pools. Target min. TVL $15M.
+`Part A:` 2 -months LM campaign with a 125K KNC(~$250K) and 60% of UND minting fee reward for 3 UND pools. Target min. TVL $15M.
 
 - UND/USDT
 - UND/KNC
 - UND/UNB
 
-* Part B (conditional; depends on Part A): If Unbound hits the target TVL of $15M, KyberDMM will unlock the remaining 125K KNC for the 3rd and 4th month.
+`Part B (conditional; depends on Part A):` If Unbound hits the target TVL of $15M, KyberDMM will unlock the remaining 125K KNC for the 3rd and 4th month.
 
 If Part A doesn’t hit the target TVL of $15M, the campaign ends temporarily after 2 months.
 
-* Part C: If part A conditions are not met, $250k in UNB rewards will be given to the 3 pools mentioned above for 2 months after completion of month 2 (Part A).
+`Part C:` If part A conditions are not met, $250k in UNB rewards will be given to the 3 pools mentioned above for 2 months after completion of month 2 (Part A).
 Total LM Campaign = 2+2 months.
 
 If part A conditions are met, $500k in UNB rewards will be given to the 3 pools mentioned above for 4 months after completion of 4 months (Part B).
@@ -188,7 +188,7 @@ As part of this program, users will be able to provide liquidity to the upcoming
 
 With the incentivized pool, KyberDMM will become a primary location for DYP trading on Avalanche. Another important aspect of the collaboration will be the integration of DYP Tools with KyberDMM for Ethereum, Binance Smart Chain, and Avalanche networks.
 
-* Motivation:
+**Motivation:**
 
 DeFi Yield Protocol has been already integrated with Avalanche and launched a couple of products including yield farming with AVAX rewards, buyback program, bridge, and DYP Tools. The integration with Avalanche also includes DYP NFTs and LaunchPad, these products are expected to be launched in the next 30 days. **Since the launch of the DYP Farming on Avalanche that happened two months ago, we have paid to the farmers 11438 AVAX worth $830,170. Also, in just one-month DYP worth $370,425.35 has been bought using the Buyback program on Avalanche.**
 DYP Tools launch on Avalanche took place just two weeks ago and we have at least 1000 unique users each week from Avalanche network.

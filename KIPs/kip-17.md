@@ -11,7 +11,7 @@ created: 2021-09-22
 campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer requested KNC to 0xD69D7A1031e6E63a162414F9A77278757690C30E (kyber multisig to handle KNC bridging between ethereum and other chains) depends on voting result.
+execution: use KNC from 0x91c9D4373B077eF8082F468C7c97f2c499e36F5b (KyberDAO multisig to handle KNC bridging between ethereum and other chains) to run Joint Liquidity Mining programs depends on voting result.
 start_timestamp: 1632391200 (Thur, 23 Sep 2021 10:00:00 UTC)
 end_timestamp: 1632812820 (Tue, 28 Sep 2021 07:07:00 UTC)
 options: 1, 2, 3, 4

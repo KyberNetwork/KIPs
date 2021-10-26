@@ -10,7 +10,7 @@ created: 2021-10-26
 campaign_type: binary
 executor: short timelock executor
 voting_power: current staked voting power
-execution: transfer 5M KNC from ecosystem funds to daoOperator multisig `0x91c9D4373B077eF8082F468C7c97f2c499e36F5b`
+execution: transfer 5M KNC from ecosystem funds to KyberDAO's multisig `0x91c9D4373B077eF8082F468C7c97f2c499e36F5b`
 start_timestamp: 1635274800 (Wed, 27 Oct 2021 19:00:00 UTC)
 end_timestamp: 1635620400 (Sat, 30 Oct 2021 19:00:00 UTC)
 options: 1, 2

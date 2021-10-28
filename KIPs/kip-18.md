@@ -11,8 +11,8 @@ campaign_type: binary
 executor: short timelock executor
 voting_power: current staked voting power
 execution: transfer 5M KNC from ecosystem funds to KyberDAO's multisig `0x91c9D4373B077eF8082F468C7c97f2c499e36F5b`
-start_timestamp: 1635408000 (Thur, 28 Oct 2021 08:00:00 UTC)
-end_timestamp: 1635753600 (Mon, 1 Nov 2021 08:00:00 UTC)
+start_timestamp: 1635426000 (Thur, 28 Oct 2021 13:00:00 UTC)
+end_timestamp: 1635771600 (Mon, 1 Nov 2021 13:00:00 UTC)
 options: 1, 2
 option_titles: "Accept", "Reject"
 min_knc_voted_percentage: 40000000000000000

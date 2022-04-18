@@ -114,6 +114,8 @@ daoOperator address (multisig): 0xe6a7338cba0a1070adfb22c07115299605454713
 | Vote differential  | The difference needed between the votes behind the For/Against options (percentage of Total KNC supply in the market needed) |          0.01% | 15%           |
 | Min quorum         |                      Minimum percentage of Total KNC supply in the market needed for the winning option                      |             4% | 20%           |
 
+The new Timelock Executor has been deployed here: 0x7d4d05B1a1E5775a9C6ca248ABBE629B52C1D9D9 with corresponding configurations.
+
 ### Other Important Considerations
 
 1. It is possible for the current governance mechanisms and permissions proposed for the new KyberDAO to be changed in the future, or new suitable strategies and mechanisms from the community to be added, subject to a proposal and vote by the new KyberDAO itself.

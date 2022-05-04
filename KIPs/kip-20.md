@@ -4,7 +4,7 @@ title: Calibrating KyberDAO Governance Parameters
 status: Active
 type: Updating DAO Configuration
 authors: Kyber Network team
-created: 2022-05-06 test
+created: 2022-05-06 test1
 ---
 
 ```

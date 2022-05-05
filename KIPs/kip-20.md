@@ -19,14 +19,13 @@ option_titles: "Accept", "Reject"
 min_knc_voted_percentage: 
 
 ```
-
 ## Summary
 
 42M KNC (Kyber Network Crystal) tokens were minted after KIP-8 in 2021 and managed by KyberDAO as a Kyber Ecosystem Growth Fund for the purpose of increasing Kyber’s liquidity and adoption through various activities through 2022, including liquidity mining and ecosystem collaborations.
 
 There are approximately 23,747,562 KNC remaining (~$83M at $3.50 per KNC) in the fund after key liquidity mining campaigns on Ethereum, Polygon, BNB Chain, Avalanche, and BitTorrent, as well as those with partners such as xToken, xDollar, Jarvis Network, DeFi Warrior, Creator, Elpis Battle, GemUni, StepHero, APEIN, DYP Protocol, Pegaxy, Sipher, Unbound Finance, Evrynet, and Benqi.
 
-Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC.
+Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC. This KIP was also based on community discussion in our [forum](https://gov.kyber.org/t/discussion-knc-ecosystem-fund-allocation/1047).
 
 Proposed Use Cases for Remaining KNC Funds
 

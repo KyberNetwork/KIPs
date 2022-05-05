@@ -59,19 +59,21 @@ We propose that the bulk of the remaining KNC (~62%) be used for activities rela
 
 The proposed allocation below is based on a few factors including on-chain volume, liquidity, and Dapp activity, and the amount of incentives already allocated before this phase. Allocation % might change given the dynamic nature of each chain, subject to community feedback and future KyberDAO votes.
 
-Chain	% Allocation from Trading & Liquidity Growth funds
-Ethereum	5%
-Polygon	9%
-BNB	9%
-Avalanche	2%
-Fantom	10%
-Arbitrum	8%
-Aurora	8.5%
-Cronos	6%
-Oasis	4%
-BitTorrent Chain	1%
-Velas	0.5%
-Future liquidity mining on other chains and ad hoc activities	37%
+|Chain|% Allocation from Trading & Liquidity Growth funds|
+| --- | --- |
+|Ethereum|5%|
+|Polygon|9%|
+|BNB|9%|
+|Avalanche|2%|
+|Fantom|10%|
+|Arbitrum|8%|
+|Aurora|8.5%|
+|Cronos|6%|
+|Oasis|4%|
+|BitTorrent Chain|1%|
+|Velas|0.5%|
+|Future liquidity mining on other chains and ad hoc activities|37%|
+
 Within each chain that is currently supported on KyberSwap, we have identified certain token pairs as high priority due to their trading volume and popularity. Stablecoin and correlated pairs are especially critical, since KyberSwap’s high capital efficiency is best observed on such pairs. We plan to seed and use KNC to incentivize these liquidity pools, among others.
 
 

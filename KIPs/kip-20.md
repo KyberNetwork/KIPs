@@ -42,9 +42,8 @@ In order to continue this positive growth, we would like to further allocate and
 
 KyberSwap already has several technical advantages over other DEXes in terms of best rates through DEX aggregation and capital-efficient liquidity pools, and KNC incentives would further amplify our DeFi mindshare and user acquisition on all supported chains.
 
-### Proposed Changes
+### Proposed Allocation for Remaining KNC in the Fund
 
-Proposed Allocation for Remaining KNC in the Fund
 Below we present an overview of the KNC allocation for the different initiatives; namely trade & liquidity mining (further split into incentives per chain), milestone-based grants, marketing activities, and bonus KyberDAO voter rewards. Note that this KNC in our ecosystem growth fund is managed by KyberDAO and is separate from the Kyber team’s treasury.
 
 Total KNC remaining in the fund: 23,747,562 KNC

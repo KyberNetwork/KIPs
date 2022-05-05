@@ -22,46 +22,58 @@ min_knc_voted_percentage: 150000000000000000 (15%)
 
 ## Summary
 
-KyberDAO’s governance parameters have worked well thus far, with comprehensive governance safeguards that ensured no one, including the Kyber team, can implement major changes to the DAO and the protocols in the network without going through a DAO vote in a decentralized manner.
+42M KNC (Kyber Network Crystal) tokens were minted after KIP-8 in 2021 and managed by KyberDAO as a Kyber Ecosystem Growth Fund for the purpose of increasing Kyber’s liquidity and adoption through various activities through 2022, including liquidity mining and ecosystem collaborations.
 
-However, with the fast-changing DeFi landscape, further safeguards are required. We would like to take the pre-emptive step of proposing certain calibrations to ensure that Kyber continues to have a decentralized governance process that is protected against malicious attacks. This has also been suggested by members of the community and DeFi ecosystem.
+There are approximately 23,747,562 KNC remaining (~$83M at $3.50 per KNC) in the fund after key liquidity mining campaigns on Ethereum, Polygon, BNB Chain, Avalanche, and BitTorrent, as well as those with partners such as xToken, xDollar, Jarvis Network, DeFi Warrior, Creator, Elpis Battle, GemUni, StepHero, APEIN, DYP Protocol, Pegaxy, Sipher, Unbound Finance, Evrynet, and Benqi.
 
-The main changes we are proposing are:
+Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC.
 
-1. Higher Voting Quorum
+Proposed Use Cases for Remaining KNC Funds
 
-2. Higher Vote Differential
+Trading and Liquidity Growth | ~62%
+Milestone-based Ecosystem Grants | ~22%
+5-year Anniversary Marketing Activities | ~14%
+Bonus rewards for KyberDAO staking and voting | ~2%
 
-3. Changes to Kyber Ecosystem Delegates
+### Motivation
+Our past trading and liquidity bootstrapping activities on KyberSwap have led to some degree of success. Since the launch of the new KyberSwap version last year, thousands of liquidity providers have earned approximately $8M in trading fees and KNC voters $1M in rewards. Total value locked (TVL) in our pools reached $140M recently and the value of KNC staked on KyberDAO is worth $210M. This progress has partly been reflected in the value of KNC, which has increased by 300+% since Jan 1, 2022. In addition, we now have almost 10,000 KNC holders that are part of the Kyber community and ecosystem, as well as close ties with many top DeFi and GameFi projects.
+
+In order to continue this positive growth, we would like to further allocate and utilize the KNC in our ecosystem growth fund. Most popular DEXes carry out some form of liquidity mining or incentive program to attract users, so it is necessary for KyberSwap to do the same to stay competitive.
+
+KyberSwap already has several technical advantages over other DEXes in terms of best rates through DEX aggregation and capital-efficient liquidity pools, and KNC incentives would further amplify our DeFi mindshare and user acquisition on all supported chains.
 
 ### Proposed Changes
 
-1. Higher Voting Quorum
+Proposed Allocation for Remaining KNC in the Fund
+Below we present an overview of the KNC allocation for the different initiatives; namely trade & liquidity mining (further split into incentives per chain), milestone-based grants, marketing activities, and bonus KyberDAO voter rewards. Note that this KNC in our ecosystem growth fund is managed by KyberDAO and is separate from the Kyber team’s treasury.
 
-Current Voting Quorum; minimum percentage of Total KNC supply used to vote in order for the vote to pass: Short timelock: 4%. Long timelock: 15%.
+Total KNC remaining in the fund: 23,747,562 KNC
 
-- We propose an increase in the long timelock voting quorum to 20%.
+1. For Trading and Liquidity Growth
 
-This means at least 20% of the total KNC supply would need to vote, in order for the winning option to be executed. This helps prevent vote centralization.
-Note: We have short timelock and long timelock execution parameters based on the nature and criticality of the vote. Short timelock is used for smaller changes that require faster execution. For example, allocating KNC from the ecosystem fund for a joint liquidity mining campaign with a DeFi project. On the other hand, long timelock is used for more critical changes to the DAO or system. For example, it helps control the admin/minter of the KNC and governance contracts.
+KNC Amount: 14,567,562 KNC (~62%)
 
-2. Higher Vote Differential
+We plan to continue working with the foundation/core team of each chain to devise strategic trading and liquidity mining initiatives that would bring tens of thousands more users to KyberSwap. To complement this, we have been optimizing our pools and liquidity mining strategy to attract more sustainable, long-term liquidity provision instead of just ‘hot money’ mercenary capital.
 
-Current Vote Differential; difference needed between the votes behind the For/Against options (percentage of Total KNC supply in the market needed): Short timelock: 0.01%. Long timelock: 4%.
+We propose that the bulk of the remaining KNC (~62%) be used for activities related to trading and liquidity growth. Some of this KNC would also be used for seeding initial pools, bridging KNC into different chains (supporting KNC on cross-chain bridges), and other ad hoc activities.
 
-- We would like to increase the long timelock vote differential to 15%.
+The proposed allocation below is based on a few factors including on-chain volume, liquidity, and Dapp activity, and the amount of incentives already allocated before this phase. Allocation % might change given the dynamic nature of each chain, subject to community feedback and future KyberDAO votes.
 
-This means the number of token holders that voted in favor of the winning option needs to be at least 15% of the total KNC supply more than those who voted against, in order for the winning option to be executed. Again, this helps prevent vote centralization and allows a substantial margin between ‘for’ and ‘against’ votes.
+Chain	% Allocation from Trading & Liquidity Growth funds
+Ethereum	5%
+Polygon	9%
+BNB	9%
+Avalanche	2%
+Fantom	10%
+Arbitrum	8%
+Aurora	8.5%
+Cronos	6%
+Oasis	4%
+BitTorrent Chain	1%
+Velas	0.5%
+Future liquidity mining on other chains and ad hoc activities	37%
+Within each chain that is currently supported on KyberSwap, we have identified certain token pairs as high priority due to their trading volume and popularity. Stablecoin and correlated pairs are especially critical, since KyberSwap’s high capital efficiency is best observed on such pairs. We plan to seed and use KNC to incentivize these liquidity pools, among others.
 
-3. Changes to Kyber Ecosystem Delegates
-
-The Kyber team had previously delegated a portion of our own KNC tokens and voting power to top projects that have contributed to Kyber’s ecosystem development over the years. These were ecosystem delegates that participated in discussions about Kyber’s development and voted on proposals using their delegated KNC.
-
-The previous 9 ecosystem delegates were:
-DeFi Saver, Enjin, Fulcrum (bZx), InstaDApp, Trust, OneBit Quant, FPR Representative, Kyber Community Pool, Unagii by StakeWithUs.
-
-To encourage greater diversity and accommodate new projects in the ecosystem, we would like to refresh the lineup and delegate more KNC to ecosystem projects (up to 50% of Kyber team’s tokens). We will propose an updated list of ecosystem delegates later, with some changes.
-Ecosystem delegates comprising of DeFi and GameFi projects ensure that some level of KNC voting power will always lie in the hands of important stakeholders who are central to Kyber’s development and long-term goals, while giving them a sense of ownership over the value they contribute to the protocol.
 
 ### New KyberDAO Configurations
 

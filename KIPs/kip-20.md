@@ -30,10 +30,10 @@ Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more 
 
 Proposed Use Cases for Remaining KNC Funds
 
-Trading and Liquidity Growth | ~62%
-Milestone-based Ecosystem Grants | ~22%
-5-year Anniversary Marketing Activities | ~14%
-Bonus rewards for KyberDAO staking and voting | ~2%
+- Trading and Liquidity Growth | ~62%
+- Milestone-based Ecosystem Grants | ~22%
+- 5-year Anniversary Marketing Activities | ~14%
+- Bonus rewards for KyberDAO staking and voting | ~2%
 
 ### Motivation
 Our past trading and liquidity bootstrapping activities on KyberSwap have led to some degree of success. Since the launch of the new KyberSwap version last year, thousands of liquidity providers have earned approximately $8M in trading fees and KNC voters $1M in rewards. Total value locked (TVL) in our pools reached $140M recently and the value of KNC staked on KyberDAO is worth $210M. This progress has partly been reflected in the value of KNC, which has increased by 300+% since Jan 1, 2022. In addition, we now have almost 10,000 KNC holders that are part of the Kyber community and ecosystem, as well as close ties with many top DeFi and GameFi projects.

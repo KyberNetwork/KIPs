@@ -1,22 +1,22 @@
 ---
-kip: 19
-title: Calibrating KyberDAO Governance Parameters
+kip: 20
+title: KNC Ecosystem Fund Allocation
 status: Active
-type: Updating DAO Configuration
+type: KNC Ecosystem Fund Allocation
 authors: Kyber Network team
-created: 2022-05-06 test1
+created: 2022-05-05
 ---
 
 ```
 campaign_type: binary
-executor: long timelock executor
+executor: short timelock executor
 voting_power: current staked voting power
-execution: Calibrate KyberDAO Governance Parameters
-start_timestamp: 1650351600 (Tuesday, 19 April 2022 07:00:00 UTC)
-end_timestamp: 1650956400 (Tuesday, 26 April 2022 07:00:00 UTC)
+execution: KNC Ecosystem Fund Allocation
+start_timestamp: 
+end_timestamp: 
 options: 1, 2
 option_titles: "Accept", "Reject"
-min_knc_voted_percentage: 150000000000000000 (15%)
+min_knc_voted_percentage: 
 
 ```
 
@@ -30,9 +30,9 @@ Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more 
 
 Proposed Use Cases for Remaining KNC Funds
 
-- Trading and Liquidity Growth | ~62%
+- Trading and Liquidity Growth | ~61%
 - Milestone-based Ecosystem Grants | ~22%
-- 5-year Anniversary Marketing Activities | ~14%
+- 5-year Anniversary Marketing Activities | ~15%
 - Bonus rewards for KyberDAO staking and voting | ~2%
 
 ### Motivation
@@ -51,7 +51,7 @@ Total KNC remaining in the fund: 23,747,562 KNC
 
 1. For Trading and Liquidity Growth
 
-KNC Amount: 14,567,562 KNC (~62%)
+KNC Amount: 14,447,562 KNC (~61%)
 
 We plan to continue working with the foundation/core team of each chain to devise strategic trading and liquidity mining initiatives that would bring tens of thousands more users to KyberSwap. To complement this, we have been optimizing our pools and liquidity mining strategy to attract more sustainable, long-term liquidity provision instead of just ‘hot money’ mercenary capital.
 
@@ -76,66 +76,75 @@ The proposed allocation below is based on a few factors including on-chain volum
 
 Within each chain that is currently supported on KyberSwap, we have identified certain token pairs as high priority due to their trading volume and popularity. Stablecoin and correlated pairs are especially critical, since KyberSwap’s high capital efficiency is best observed on such pairs. We plan to seed and use KNC to incentivize these liquidity pools, among others.
 
+|Chain|Pairs|
+| --- | --- |
+|Ethereum|USDC-USDT, USDC-KNC, USDC-ETH, FRAX-USDC, USDC-WUST, WBTC-ETH, USDT-ETH, DAI-USDC, DAI-ETH|
+|Polygon|USDC-USDT, DAI-USDC, DAI-USDT, KNC-USDC, USDC-miMATIC, USDC-UST, WBTC-MATIC, USDT-ETH, USDT-MATIC, USDC-MATIC, USDC-ETH, WBTC-USDC, MATIC-ETH, KNC-ETH, KNC-MATIC, ETH-DAI|
+|BNB Chain|USDC-USDT, USDT-BNB, BUSD-USDC, DAI-USDC, DAI-USDT, DAI-BUSD, KNC-USDT, KNC-USDC, KNC-ETH, KNC-BNB, BUSD-WUST, BUSD-USDT, BUSD-BNB, ETH-BNB, ETH-BUSD|
+|Avalanche|USDC-USDT, DAI.e-USDC, DAI.e-USDT, AVAX-DAI.e, AVAX-USDC, AVAX-USDC.e, AVAX-USDT, AVAX-USDT.e, AVAX-WBTC, AVAX-WETH.e, USDT-USDT.e, USDC-USDC.e, AVAX-MIM, USDC-MIM, miMATIC-USDC, UST-USDC, UST-AVAX, KNC-USDC, KNC-WETH.e, KNC-AVAX|
+|Fantom|USDC-USDT, DAI-USDC, DAI-USDT, KNC-USDC, KNC-ETH, KNC-FTM, ETH-FTM, ETH-WBTC, USDC-miMATIC, FTM-WBTC, FTM-MIM, FTM-fUSDT, FTM-UST, USDC-TUSD, USDC-UST, USDC-FTM, USDC-ETH|
+|Arbitrum|USDC-USDT, DAI-USDC, DAI-USDT, FRAX-USDC, USDs-USDC, KNC-USDC, KNC-ETH, WBTC-ETH, ETH-USDT, ETH-USDC, DAI-ETH, rETH-ETH|
+|Aurora/NEAR|USDC-DAI, USDC-USDT, USDT-DAI, USDC-RUSD, USDC-atUST, AURORA-ETH, AURORA-USDC, AURORA-wNEAR, AURORA-KNC, wNEAR-KNC, USDC-KNC, wNEAR-ETH, wNEAR-USDC, wNEAR-USDT, wNEAR-WBTC, USDC-ETH, ETH-KNC|
+|Cronos|USDC-DAI, USDT-DAI, USDC-USDT, TUSD-USDC, DUSD-USDC, KNC-CRO, KNC-USDC, KNC-ETH, ETH-USDC, CRO-WBTC, CRO-ETH, CRO-USDT, CRO-USDC|
+|Oasis Emerald|USDC-USDT, USDC-DAI, USDT-DAI, UST-USDT, ROSE-USDC, ROSE-USDT, ROSE-ETH, USDT-BTC, ROSE-KNC, USDC-KNC, ETH-KNC, USDT-ETH, USDC-ETH|
+|BitTorrent Chain|Key pools already seeded and live|
+|Velas|USDC-USDT, DAI-USDC, DAI-USDT, USDV-BUSD, USDV-DAI, KNC-USDC, KNC-ETH, ETH-USDC|
 
-### New KyberDAO Configurations
+**2. For Milestone-based Ecosystem Grants**
 
-#### DAO Operator
+KNC Amount: 5,150,000 KNC (~22%)
 
-There is a 5/9 multisig with the role of a DAO operator that assists with operational tasks and ensuring the integrity of the DAO. They are a mix of Kyber team members and founders of external DeFi projects with no direct affiliation to Kyber.
+Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer a total of 5,200,000 KNC (~$22M) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
 
-daoOperator address (multisig): 0xe6a7338cba0a1070adfb22c07115299605454713
+We would develop a fair and transparent process that allows any project on supported chains to compete to hit certain liquidity and volume milestones and tiers in order to obtain an appropriate share of the total KNC rewards.
 
-1. Loi - Kyber (representing the Kyber founding team) 0xc8a1dab586dee8a30cb88c87b8a3614e0a391fc5
+The exact process and minimum qualifying criteria would be determined later, but would include:
 
-2. Victor - Kyber (representing developers)  
-   0x8180a5ca4e3b94045e05a9313777955f7518d757
+* Creation of a liquidity pool
+* Achieving a minimum amount of liquidity (TVL)
+* Achieving a minimum 24H trading volume
 
-3. Mike - Kyber (representing the smart contracts team) 0xBE2F0354D970265BFc36D383af77F72736b81B54
+**3. For 5-Year Anniversary Marketing Activities**
 
-4. Sunny - Krystal (representing DeFi Dapps) 0xdE6BBD964b9D0148d46FE6e2E9Cf72B020ADc519
+KNC Value: $13M (~15%)
 
-5. John - Signum Capital (representing VCs and KNC holders) 0x8eC1455f17d9E021Acc8a30F23461DEdff5018Ba
+September 2022 will mark the 5-Year Anniversary of Kyber Network. This is a momentous occasion that provides the opportunity for Kyber to reward our loyal supporters, look back at our progress over the years, and highlight how KyberSwap is the best decentralized multi-chain platform for traders and liquidity providers alike. Our core marketing objective is to get as many users as possible to be aware of our benefits and try using KyberSwap.com
 
-6. Hunter/DeFi Dude - (representing the DeFi Community) 0x499b2408A0a6B43fea49Df79d98246f88ECC8465
+Based on our estimations, we propose an allocation of ~$13M worth of KNC for various marketing activities, including:
 
-7. 0x7a33 - Anonymous (representing professional market makers) 0xffF96a443aB8e8eFF4621c1Aa02Bbd90aD39DA57
+* Paid advertisements
+* Crypto event sponsorships
+* Community rewards e.g. for AMAs, top supporters, ambassadors
+* Trading contests and other user adoption campaigns
+* Educational content with partners
 
-8. Michael - xToken (representing staking pools/Dapps) 0x2171861D0943b50d375a800E6c6ea061758C8eB4
+**4. For Bonus KyberDAO Voting Rewards**
 
-9. Michael - Unagii (representing staking pools/Dapps) 0x6c7C332a090c8D2085857cf3220eA01C6d45a723
+KNC Value: $1.5M (~2%)
 
-#### New Configurations
+Staking KNC in advance enables anyone to vote and earn KNC rewards derived from a portion of trading fees on KyberSwap. As we work on redesigning [KyberDAO](http://kyber.org) to implement gasless voting and migrating the UI to KyberSwap.com, as well as improving KNC utility, we plan to reward KyberDAO voters for their strong support and contribution to KyberSwap’s development.
 
-| Subject    |      Actors      |                                                            Permissions | Proposed Contract      |
-| ---------- | :--------------: | ---------------------------------------------------------------------: | ---------------------- |
-| KNC Token  |      Miner       |                                                               Mint KNC | Long Timelock Executor |
-|            |   Proxy Admin    |                                              Change KNC implementation | Long Timelock Executor |
-|            | Withdrawal Admin | Withdraw tokens from the contract due to accidental transfer of tokens | 3/5 Multisig           |
-| Governance |      Admin       |                     Authorize and deauthorize executors and strategies | Long Timelock Executor |
-|            |  Executor Admin  |                       Queue, cancel, and execute proposal transactions | Governance Contract    |
-|            |   DAO Operator   |                                            Create and cancel proposals | 5/9 Multisig           |
+~$1.5M worth of KNC would be proposed as allocation for activities related to KyberDAO staking and voting, some of which could be retroactive and some as future drops.
 
-#### Timelock Executor Configurations
+## Important Considerations
 
-| Properties         |                                                          Definition                                                          | Short Timelock | Long Timelock |
-| ------------------ | :--------------------------------------------------------------------------------------------------------------------------: | -------------: | ------------- |
-| Delay              |                                              Waiting time to execute proposals                                               |       12 hours | 1 week        |
-| Grace period       |                                         Proposal execution period before it expires                                          |         4 days | 7 days        |
-| Min delay          |                                         Minimum time in the range of a delay config                                          |         1 hour | 24 hours      |
-| Max delay          |                                         Maximum time in the range of a delay config                                          |       24 hours | 2 weeks       |
-| Min vote duration  |                                            Minimum voting duration of a proposal                                             |         4 days | 7 days        |
-| Max voting options |                                           Maximum number of options in a proposal                                            |              8 | 8             |
-| Vote differential  | The difference needed between the votes behind the For/Against options (percentage of Total KNC supply in the market needed) |          0.01% | 15%           |
-| Min quorum         |                      Minimum percentage of Total KNC supply in the market needed for the winning option                      |             4% | 20%           |
+**Structured Flexibility:** It is important to note that although we have proposed a high-level allocation and structure for the KNC funds to be used in the coming months, KyberSwap has to adapt to changing DeFi trends. As such, specific percentages, KNC value, and details for each category may change, subject to a new KIP and approval from the KyberDAO via a vote. For example, certain chains or token pairs may become substantially more popular at a later stage, and thus require more resources devoted to them.
 
-The new Timelock Executor has been deployed here: 0x7d4d05B1a1E5775a9C6ca248ABBE629B52C1D9D9 with corresponding configurations.
+**Improving KNC Utility:** It is imperative that the intrinsic utility and value of KNC continues to be enhanced on top of the current governance and liquidity mining use cases. Additional KNC utility ideas for KyberSwap.com under consideration include:
 
-### Other Important Considerations
+* Rewards/Raffles/NFT drops
+* Boosted fees earned for LPs
+* KNC ‘cashback’ as gas compensation for traders
+* Time-based KNC staking rewards; the longer you stake your KNC, your address would hit certain milestones and get upgraded, enabling exclusive rewards in the future.
 
-1. It is possible for the current governance mechanisms and permissions proposed for the new KyberDAO to be changed in the future, or new suitable strategies and mechanisms from the community to be added, subject to a proposal and vote by the new KyberDAO itself.
+These are not set in stone and we welcome more ideas from the community to improve KNC token utility.
 
-2. The Kyber core team is the current network maintainer and one of the main actors/admin in the KyberDAO, helping to execute critical tasks to maintain and grow the network. But the team alone does not have the power to implement major changes to the KyberDAO and the protocols in the network. Any contract alteration must be first decided by a KyberDAO vote.
+**Time-based KNC Conversion Cap:** KNC would be utilized as direct payment for marketing activities or liquidity pool seeding as much as possible. However, if KNC is required to be converted to stablecoins as payment to external parties, we would impose a suitable limit or emission rate for KNC that can be converted within a time period (e.g. a week or a month) in order to ensure token stability.
 
 ## Conclusion
 
-Kyber is on a path of progressive decentralization. Although our current governance framework is largely based on Aave (considered best practice), we are always open to community feedback and will optimize it when deemed suitable. This KIP will help KyberDAO ensure greater decentralization and diversity, while strengthening its ability to withstand attacks on its governance process by malicious actors.
+We strongly believe that we can effectively utilize the remaining KNC in the ecosystem growth fund to drive adoption for KyberSwap.com and the KNC token itself. Burning KNC would only result in a short-term supply shock but does not support long-term value accrual.
+
+On the other hand, effective utilization of KNC in upcoming initiatives could potentially result in more users, volume, and fees for LPs and KyberDAO voters. This would also increase the number of KNC holders who help expand the Kyber ecosystem, with the ability to stake KNC and vote.
+
+KNC plays a valuable and central role in the Kyber ecosystem. KNC holders not only own a useful asset, but also a stake in DeFi’s liquidity infrastructure. We want to work closely with the community to ensure that KNC is utilized in the most efficient and impactful way possible and enhance its long-term value.

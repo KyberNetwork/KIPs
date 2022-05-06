@@ -12,11 +12,11 @@ campaign_type: binary
 executor: short timelock executor
 voting_power: current staked voting power
 execution: KNC Ecosystem Fund Allocation
-start_timestamp: 
-end_timestamp: 
+start_timestamp: 1652166600
+end_timestamp: 1652512200
 options: 1, 2
 option_titles: "Accept", "Reject"
-min_knc_voted_percentage: 
+min_knc_voted_percentage: 40000000000000000
 
 ```
 ## Summary

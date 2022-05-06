@@ -11,7 +11,7 @@ created: 2022-05-05
 campaign_type: binary
 executor: short timelock executor
 voting_power: current staked voting power
-execution: KNC Ecosystem Fund Allocation
+execution: Transfer remaining KNC from ecosystem fund to the DAO Operator (5/9) multisig '0xE6A7338cba0A1070AdfB22c07115299605454713' for upcoming growth activities
 start_timestamp: 1652166600
 end_timestamp: 1652512200
 options: 1, 2
@@ -25,7 +25,7 @@ min_knc_voted_percentage: 40000000000000000
 
 There are approximately 23,747,562 KNC remaining (~$71.2M at $3 per KNC) in the fund after key liquidity mining campaigns on Ethereum, Polygon, BNB Chain, Avalanche, and BitTorrent, as well as those with partners such as xToken, xDollar, Jarvis Network, DeFi Warrior, Creator, Elpis Battle, GemUni, StepHero, APEIN, DYP Protocol, Pegaxy, Sipher, Unbound Finance, Evrynet, and Benqi.
 
-Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC. This KIP was also based on community discussion in our [forum](https://gov.kyber.org/t/discussion-knc-ecosystem-fund-allocation/1047).
+Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC. If this KIP is approved, remaining KNC from the ecosystem fund will be transferred to the DAO Operator multisig '0xE6A7338cba0A1070AdfB22c07115299605454713' to be allocated for upcoming growth activities. This KIP was based on community discussion in our [forum](https://gov.kyber.org/t/discussion-knc-ecosystem-fund-allocation/1047).
 
 Proposed Use Cases for Remaining KNC Funds
 

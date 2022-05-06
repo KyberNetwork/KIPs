@@ -90,9 +90,9 @@ Within each chain that is currently supported on KyberSwap, we have identified c
 
 **2. For Milestone-based Ecosystem Grants**
 
-KNC Amount: 4,800,000 KNC (~20%)
+KNC Amount: 4,700,000 KNC (~20%)
 
-Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer 4,800,000 KNC (~$14.4M at $3 per KNC) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
+Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer 4,700,000 KNC (~$14M at $3 per KNC) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
 
 We would develop a fair and transparent process that allows any project on supported chains to compete to hit certain liquidity and volume milestones and tiers in order to obtain an appropriate share of the total KNC rewards.
 
@@ -104,11 +104,11 @@ The exact process and minimum qualifying criteria would be determined later, but
 
 **3. For 5-Year Anniversary Marketing Activities**
 
-KNC Value: $11.5M (~16%)
+KNC Value: $12M (~16%)
 
 September 2022 will mark the 5-Year Anniversary of Kyber Network. This is a momentous occasion that provides the opportunity for Kyber to reward our loyal supporters, look back at our progress over the years, and highlight how KyberSwap is the best decentralized multi-chain platform for traders and liquidity providers alike. Our core marketing objective is to get as many users as possible to be aware of our benefits and try using KyberSwap.com
 
-Based on our estimations, we propose an allocation of ~$11.5M worth of KNC for various marketing activities, including:
+Based on our estimations, we propose an allocation of ~$12M worth of KNC for various marketing activities, including:
 
 * Paid advertisements
 * Crypto event sponsorships

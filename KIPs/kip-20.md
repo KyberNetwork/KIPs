@@ -23,19 +23,19 @@ min_knc_voted_percentage:
 
 42M KNC (Kyber Network Crystal) tokens were minted after KIP-8 in 2021 and managed by KyberDAO as a Kyber Ecosystem Growth Fund for the purpose of increasing Kyber’s liquidity and adoption through various activities through 2022, including liquidity mining and ecosystem collaborations.
 
-There are approximately 23,747,562 KNC remaining (~$83M at $3.50 per KNC) in the fund after key liquidity mining campaigns on Ethereum, Polygon, BNB Chain, Avalanche, and BitTorrent, as well as those with partners such as xToken, xDollar, Jarvis Network, DeFi Warrior, Creator, Elpis Battle, GemUni, StepHero, APEIN, DYP Protocol, Pegaxy, Sipher, Unbound Finance, Evrynet, and Benqi.
+There are approximately 23,747,562 KNC remaining (~$71.2M at $3 per KNC) in the fund after key liquidity mining campaigns on Ethereum, Polygon, BNB Chain, Avalanche, and BitTorrent, as well as those with partners such as xToken, xDollar, Jarvis Network, DeFi Warrior, Creator, Elpis Battle, GemUni, StepHero, APEIN, DYP Protocol, Pegaxy, Sipher, Unbound Finance, Evrynet, and Benqi.
 
 Now that our KyberSwap DEX aggregator has been deployed on 11 chains (many more in the pipeline), further boosted by an upcoming launch of Elastic-type liquidity pools that offers even greater capital efficiency for liquidity providers, we propose that KyberDAO utilize the remaining KNC for even more growth activities on KyberSwap, instead of simply burning the KNC. This KIP was also based on community discussion in our [forum](https://gov.kyber.org/t/discussion-knc-ecosystem-fund-allocation/1047).
 
 Proposed Use Cases for Remaining KNC Funds
 
-- Trading and Liquidity Growth | ~61%
-- Milestone-based Ecosystem Grants | ~22%
-- 5-year Anniversary Marketing Activities | ~15%
+- Trading and Liquidity Growth | ~62%
+- Milestone-based Ecosystem Grants | ~20%
+- 5-year Anniversary Marketing Activities | ~16%
 - Bonus rewards for KyberDAO staking and voting | ~2%
 
 ### Motivation
-Our past trading and liquidity bootstrapping activities on KyberSwap have led to some degree of success. Since the launch of the new KyberSwap version last year, thousands of liquidity providers have earned approximately $8M in trading fees and KNC voters $1M in rewards. Total value locked (TVL) in our pools reached $140M recently and the value of KNC staked on KyberDAO is worth $200M. This progress has partly been reflected in the value of KNC, which has increased by 200+% since Jan 1, 2022. In addition, we now have almost [10,000 KNC holders](https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202#balances) that are part of the Kyber community and ecosystem, as well as close ties with many top DeFi and GameFi projects.
+Our past trading and liquidity bootstrapping activities on KyberSwap have led to some degree of success. Since the launch of the new KyberSwap version last year, thousands of liquidity providers have earned approximately $8M in trading fees and KNC voters $1M in rewards. Total value locked (TVL) in our pools reached $140M recently and the value of KNC staked on KyberDAO is worth over $120M. In addition, we now have almost [10,000 KNC holders](https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202#balances) that are part of the Kyber community and ecosystem, as well as close ties with many top DeFi and GameFi projects.
 
 In order to continue this positive growth, we would like to further allocate and utilize the KNC in our ecosystem growth fund. Most popular DEXes carry out some form of liquidity mining or incentive program to attract users, so it is necessary for KyberSwap to do the same to stay competitive.
 
@@ -49,11 +49,11 @@ Total KNC remaining in the fund: 23,747,562 KNC
 
 **1. For Trading and Liquidity Growth**
 
-KNC Amount: 14,447,562 KNC (~61%)
+KNC Amount: 14,697,562 KNC (~62%)
 
 We plan to continue working with the foundation/core team of each chain to devise strategic trading and liquidity mining initiatives that would bring tens of thousands more users to KyberSwap. To complement this, we have been optimizing our pools and liquidity mining strategy to attract more sustainable, long-term liquidity provision instead of just ‘hot money’ mercenary capital.
 
-We propose that the bulk of the remaining KNC (~61%) be used for activities related to trading and liquidity growth. Some of this KNC would also be used for seeding initial pools, bridging KNC into different chains (supporting KNC on cross-chain bridges), and other ad hoc activities.
+We propose that the bulk of the remaining KNC be used for activities related to trading and liquidity growth. Some of this KNC would also be used for seeding initial pools, bridging KNC into different chains (supporting KNC on cross-chain bridges), and other ad hoc activities.
 
 The proposed allocation below is based on a few factors including on-chain volume, liquidity, and Dapp activity, and the amount of incentives already allocated before this phase. Allocation % might change given the dynamic nature of each chain, subject to community feedback and future KyberDAO votes.
 
@@ -90,7 +90,7 @@ Within each chain that is currently supported on KyberSwap, we have identified c
 
 **2. For Milestone-based Ecosystem Grants**
 
-KNC Amount: 5,150,000 KNC (~22%)
+KNC Amount: 4,800,000 KNC (~20%)
 
 Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer a total of 5,150,000 KNC (~$18M at $3.50 per KNC) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
 
@@ -104,11 +104,11 @@ The exact process and minimum qualifying criteria would be determined later, but
 
 **3. For 5-Year Anniversary Marketing Activities**
 
-KNC Value: $13M (~15%)
+KNC Value: $11.5M (~16%)
 
 September 2022 will mark the 5-Year Anniversary of Kyber Network. This is a momentous occasion that provides the opportunity for Kyber to reward our loyal supporters, look back at our progress over the years, and highlight how KyberSwap is the best decentralized multi-chain platform for traders and liquidity providers alike. Our core marketing objective is to get as many users as possible to be aware of our benefits and try using KyberSwap.com
 
-Based on our estimations, we propose an allocation of ~$13M worth of KNC for various marketing activities, including:
+Based on our estimations, we propose an allocation of ~$11.5M worth of KNC for various marketing activities, including:
 
 * Paid advertisements
 * Crypto event sponsorships

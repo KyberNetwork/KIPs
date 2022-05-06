@@ -92,7 +92,7 @@ Within each chain that is currently supported on KyberSwap, we have identified c
 
 KNC Amount: 4,800,000 KNC (~20%)
 
-Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer a total of 5,150,000 KNC (~$18M at $3.50 per KNC) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
+Besides the pre-allocated trading and liquidity mining campaigns for the token pairs mentioned above, we plan to offer 4,800,000 KNC (~$14.4M at $3 per KNC) in ecosystem grants to top DeFi or GameFi projects that fulfill certain criteria and milestones on KyberSwap. This would incentivize a wide variety of token liquidity on KyberSwap.
 
 We would develop a fair and transparent process that allows any project on supported chains to compete to hit certain liquidity and volume milestones and tiers in order to obtain an appropriate share of the total KNC rewards.
 

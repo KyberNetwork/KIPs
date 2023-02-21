@@ -12,8 +12,8 @@ campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
 execution: use KNC from 0x91c9D4373B077eF8082F468C7c97f2c499e36F5b (KyberDAO multisig) to add KNC liquidity to the chains and KNC pairs selected based on the voting result.
-start_timestamp:  (Fri, 17 Feb 2023 10:00:00 UTC)
-end_timestamp:  (Tue, 21 Sep 2023 10:00:00 UTC)
+start_timestamp: 1677574800 (Tuesday, February 28, 2023 4:00:00 PM GMT+7)
+end_timestamp: 1678179600 (Tuesday, March 7, 2023 4:00:00 PM GMT+7)
 options: 1, 2, 3, 4, 5, 6
 option_titles: "Ethereum - KNC-USDC, KNC-WBTC ", "Polygon - KNC-MATIC, KNC-WBTC", "Arbitrum - KNC-USDC, KNC-WBTC", "Optimism - KNC-USDC, KNC-WBTC", "Avalanche - KNC-USDC, KNC-WBTC", "BNB chain - KNC-BNB, KNC-USDT"
 min_knc_voted_percentage: 30000000000000000
@@ -26,7 +26,7 @@ Improving KNC liquidity is a key element in ensuring stability for the token. Mo
 
 We are proposing to further improve liquidity for KNC on KyberSwap as well as increase the type of tokens paired with KNC. KyberDAO ecosystem funds are finite and there are pros and cons to consider when it comes to adding funds to KNC-paired pools. As such, KyberDAO would be responsible for determining the KNC chains and pairs the additional funds would flow to.
 
-Every 4 epochs (~2 months), a small portion of KNC from the KyberDAO ecosystem fund (~19,912,349.25 KNC currently remaining in the fund) would be allocated to improving KNC liquidity, focusing first on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, and BNB Chain. 
+Every 4 epochs (~2 months), a small portion of KNC from the KyberDAO ecosystem fund (~19,868,149.25 KNC currently remaining in the fund) would be allocated to improving KNC liquidity, focusing first on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, and BNB Chain. 
 
 KyberDAO will vote for its preferred chains (and suggested KNC-paired pools) that would receive priority for the funds, based on an initial list highlighted later in this proposal. For this KIP proposal, **100,000 KNC** would be allocated for liquidity enhancement for each KNC pair selected as part of the winning vote.
 

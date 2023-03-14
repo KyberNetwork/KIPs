@@ -1,8 +1,8 @@
 {
   "cycle": 6,
   "startEpoch": 48,
-  "endEpoch": 49,
-  "queryBlock": 16819855,
+  "endEpoch": 50,
+  "queryBlock": 16825898,
   "merkleRoot": "0xc25a13d710e028cc91e6cd0960d536c0a8c46d5006670cbdce7b7c812e3517a1",
   "userRewards": {
     "0x000ee16cB65f9ea34990F850cfF8E1e34aF5Aa1f": {

@@ -12,8 +12,8 @@ campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
 execution: use KNC from 0x91c9D4373B077eF8082F468C7c97f2c499e36F5b (KyberDAO multisig) to add KNC liquidity to the chains and KNC pairs selected based on the voting result.
-start_timestamp: 1687338000 (Wednesday, 21 June, 2023 4:00:00 PM GMT+7)
-end_timestamp: 1687942800 (Wednesday, 28 June, 2023 4:00:00 PM GMT+7)
+start_timestamp: 1687849200 (Tuesday, June 27, 2023 2:00:00 PM GMT+07:00)
+end_timestamp: 1688454000 (Tuesday, July 4, 2023 2:00:00 PM GMT+07:00)
 options: 1, 2, 3
 option_titles: "Polygon - KNC-MATIC, KNC-USDC", "Arbitrum - KNC-USDC(native), KNC-ETH", "BNB chain - KNC-BNB, KNC-USDT"
 min_knc_voted_percentage: 40000000000000000 (4%)

@@ -12,8 +12,8 @@ campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
 execution: Calibrate % fee ratio that goes to KyberDAO and LPs
-start_timestamp: 1690268820 (Tuesday, July 25, 2023 2:07:00 PM GMT+7)
-end_timestamp: 1691478420 (Tuesday, August 8, 2023 2:07:00 PM GMT+7)
+start_timestamp: 1690876800 (Tuesday, August 1, 2023 3:00:00 PM GMT+07:00)
+end_timestamp: 1691481600 (Tuesday, August 8, 2023 3:00:00 PM GMT+07:00)
 options: 1, 2
 option_titles: "Accept", "Reject"
 min_knc_voted_percentage: 40000000000000000 (4%)

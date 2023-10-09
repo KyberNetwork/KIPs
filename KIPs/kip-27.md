@@ -8,7 +8,7 @@ created: 2023-10-10
 ---
 
 ---
-
+```
 campaign_type: general
 executor: short timelock executor
 voting_power: current staked voting power
@@ -18,7 +18,7 @@ end_timestamp: 1697529600 (Tuesday, 17 Oct, 2023 3:00:00 PM GMT+7)
 options: 1, 2, 3, 4
 option_titles: "Avalanche - axlKNC-USDC, axlKNC-AVAX", "Base - KNC-USDC, KNC-ETH", "Linea - KNC-WBTC, KNC-USDT", "Scroll - KNC-USDC, KNC-ETH"
 min_knc_voted_percentage: 40000000000000000 (4%)
-
+```
 ---
 ## Summary
 

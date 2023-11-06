@@ -38,6 +38,8 @@ In this KIP, we propose a solution that would enable affected users to switch (s
 
 KNC would be sourced from the [KyberDAO ecosystem fund](https://github.com/KyberNetwork/KIPs/blob/master/KIPs/kip-23.md), under the “Trading and Liquidity Growth” allocation.
 
+This KIP was first proposed on the governance forum [here](https://gov.kyber.org/t/kip-28-draft-kyberdao-to-open-a-limit-order-for-mknc-holders-to-swap-mknc-to-knc-discuss/2170).
+
 ## Motivation
 
 Immediately after determining that Multichain was likely to cease operations, KyberSwap stopped all farms associated with Multichain-deployed KNC contracts and warned users multiple times not to use or interact with these contracts on Avalanche, Arbitrum, Optimism, and Fantom.
@@ -54,10 +56,9 @@ If this KIP is approved, KyberDAO would prepare 192,067.31533 KNC (same amount o
 
 **Key Steps**
 
-* A snapshot of the current addresses holding mKNC on each affected chain would be taken in advance (as of 1 November 2023). Only these addresses would be able to participate in our Limit Order initiative to swap mKNC to KNC.
-* On each affected chain, we open a Limit Order that allows users to swap mKNC to KNC within a reasonable time period (e.g. 2-3 months), facilitated by KyberSwap aggregator. As users swap their mKNC to KNC, the Limit Order gets partially filled until the full order (maximum KNC allocated for the chain) has been swapped, or until the expiry date.
+* On each affected chain, we create a Limit Order that allows users to swap mKNC to a suitable version of KNC, facilitated by KyberSwap aggregator. As users swap their mKNC to KNC, the Limit Order gets partially filled until the full order (maximum KNC allocated for the chain) has been swapped, or until the expiry date. The Limit Order will be open for a period of 2 months, following which it would expire and users would lose the opportunity to swap mKNC to KNC on that chain. Advance notice would be given regarding the creation date of the Limit Order.
 * This process would be done sequentially chain-by-chain, with a small buffer time in between; to be completed first on Arbitrum, followed by Optimism, Fantom, and lastly Avalanche.
-* Note that the actual exchange rate may not be exactly 1:1, as there are minor Limit Order fees taken, as with any other trade via Limit Order.
+* The Limit Order created would set the exchange rate for mKNC to KNC at 1:1. However, a minor fee could be applied according to the [Limit Order fee structure](https://docs.kyberswap.com/kyberswap-solutions/limit-order/developer-guides/fill-limit-order#limit-order-protocol-fees).
 * In exchange for KNC, KyberDAO would keep the mKNC switched out by users.
 
 ## Important Considerations
@@ -75,6 +76,8 @@ This prevailing mKNC problem was born out of the sudden and unforeseen sunsettin
 **Scenario 4:** Multichain team transfers all the KNC in their bridge wallets back to addresses that hold mKNC on different chains. Since KyberDAO would keep mKNC from users (after the Limit Order exchange), KyberDAO wallets can receive the KNC released by Multichain.
 
 **Scenario 5:** Multichain team transfers all the KNC in their bridge wallets back to addresses that had previously bridged KNC using Multichain contracts in the past. Affected users who had received KNC from KyberDAO (after the Limit Order exchange) would receive this extra KNC, which might be perceived as unfair. KyberDAO gets nothing and mKNC would remain unusable.
+
+**Scenario 6:** Users who do not hold mKNC might attempt to purchase mKNC at a lower price before converting it to KNC using the Limit Order exchange. But the likelihood of this is very low as there is no liquidity for mKNC on KyberSwap pools.
 
 ## Conclusion
 

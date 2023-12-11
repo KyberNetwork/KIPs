@@ -12,8 +12,8 @@ campaign_type: general
 executor: long timelock executor
 voting_power: current staked voting power
 execution: Add DAO multisig to the smart contract strategy for converting & receiving LP fees
-start_timestamp: 1702368000 (Tuesday, December 12, 2023 3:00:00 PM GMT+7)
-end_timestamp: 1702972800 (Tuesday, December 19, 2023 3:00:00 PM GMT+7)
+start_timestamp: 1702364400 (Tuesday, December 12, 2023 2:00:00 PM GMT+7)
+end_timestamp: 1702969200 (Tuesday, December 19, 2023 2:00:00 PM GMT+7)
 options: 1, 2
 option_titles: "Yes", "No"
 min_knc_voted_percentage: 200000000000000000 (20%)

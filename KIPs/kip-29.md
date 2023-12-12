@@ -16,7 +16,7 @@ start_timestamp: 1702364400 (Tuesday, December 12, 2023 2:00:00 PM GMT+7)
 end_timestamp: 1702969200 (Tuesday, December 19, 2023 2:00:00 PM GMT+7)
 options: 1, 2
 option_titles: "Yes", "No"
-min_knc_voted_percentage: 200000000000000000 (20%)
+min_knc_voted_percentage: 150000000000000000 (15%)
 
 ```
 ## Summary
@@ -25,7 +25,7 @@ To further optimize KyberSwap and KyberDAO operations, the team proposes to incl
 
 These steps are necessary to optimize the Classic LP token fee collection and transfer the remaining Classic protocol (old KyberDMM) LP fees (currently worth ~$30K USD) out of the [Treasury pool](https://debank.com/profile/0x0e590bb5f02a0c38888bffb45dee050b8fb60bda) to the DAO multisig wallet. **These fees, which were collected for eligible KNC voters, can then be converted to KNC to be distributed to these eligible KNC voters.** 
 
-KyberDAO would vote Yes/No on whether to proceed with these important changes. For this long executor-based KIP to be approved, a minimum quorum of 20% of Total KNC supply is required for the winning option, with a vote differential of 15%.
+KyberDAO would vote YES/NO on whether to proceed with these important changes.
 
 This KIP was raised in the governance forum [here](https://gov.kyber.org/t/kip-29-draft-add-dao-multisig-to-the-smart-contract-strategy-for-converting-receiving-lp-fees-discuss/2213).
 

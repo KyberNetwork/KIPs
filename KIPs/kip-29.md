@@ -8,7 +8,7 @@ created: 2023-12-11
 ---
 
 ```
-campaign_type: general
+campaign_type: binary
 executor: long timelock executor
 voting_power: current staked voting power
 execution: Add DAO multisig to the smart contract strategy for converting & receiving LP fees
